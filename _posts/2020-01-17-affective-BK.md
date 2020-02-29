@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Halve Jekyll Theme"
-date:   2016-05-29
-excerpt: "Stylish, two-column Jekyll theme for your blog."
-tag:
+title:  "Affective BK robot"
+date:   2020-01-17
+excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
+<!-- tag:
 - jekyll 
 - halve
 - blog
 - vangeltzo
 - theme
-- vangelis
+- vangelis -->
 ---
 
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
