@@ -3,6 +3,7 @@ layout: post
 title:  "Affective BK robot"
 date:   2020-01-17
 excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
+
 <!-- tag:
 - jekyll 
 - halve
@@ -19,6 +20,56 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
  This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you. -->
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
+
+## Affective states with shape-change BK robot
+
+<h5>The "BK"</h5>
+BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:
+
+<figure>
+<img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
+</figure>
+
+Make a guess about which label belongs to which shape (Don't google before making a guess!). I have greater than 95% chance of getting your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
+
+<h5>Tangible BK</h5>
+Above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
+
+This perceptual correlation also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
+
+<figure>
+<img src="{{site.baseurl}}/images/bk/bktangible.jpeg" width = "400"/>
+</figure>
+
+<h5>How this can be utilised in design? </h5>
+In a CHI mentality, the next question we are thinking about is how can we leverage such a perceptual regularity to benefit our life?
+
+An interting application is to build a perceptual common ground, for instance, the [tangible pain assessment tool](https://designawards.core77.com/health-wellness/82835/Tangible-Pain-Assessment-Tools).
+
+<figure>
+<img src="{{site.baseurl}}/images/bk/bkexample.jpeg" width = "400"/>
+</figure>
+(This figure is adopted from the core77 website.)
+
+This project use tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
+
+<h5>Shape-change BK robot</h5>
+Our ``research concerns`` how people interact with the affordance that shape-change deviced, interfaces and robots provides, both physically and psychologically.
+
+At the current stage, we ``aim`` to empirically investigate emotional states that peole can perceive based on the transition between tangible "Bouba" and "Kiki".
+
+We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
+
+<!-- <iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**Result:** wait for the update.
+
+## BK for fun
+This little bot feels your heart and synchronise it's breath with you.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       
 ## Installation and Quick Usage
 * Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
@@ -66,11 +117,6 @@ Example `title: My Awesome Site`
 
 #### description
 
-The description to use for meta tags and homepage.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
 
 Examples:
 
@@ -114,26 +160,6 @@ To set what image links appear in the overlay menu edit `_data/projects.yaml`. U
   url: http://taylantatli.me/Moon
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
-
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
 {% endhighlight %}
 
 ---
@@ -161,8 +187,3 @@ image: http://example.com/some-image.png
 
 Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Halve/issues/new). And if you make something cool with this theme feel free to let me know.
 
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
