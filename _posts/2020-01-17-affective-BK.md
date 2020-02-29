@@ -22,8 +22,8 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
 ## Affective states with shape-change BK robot
-
-<h5>The "BK"</h5>
+ 
+## The "BK"
 BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:
 
 <figure>
@@ -32,7 +32,7 @@ BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape 
 
 Make a guess about which label belongs to which shape (Don't google before making a guess!). I have greater than 95% chance of getting your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
 
-<h5>Tangible BK</h5>
+## Tangible BK 
 Above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
