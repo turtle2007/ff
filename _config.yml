@@ -30,13 +30,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             ffeng0531@gmail.com
 #google.plus:        username
-twitter:            username
+twitter:            https://twitter.com/Feng58486062
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             https://github.com/turtle2007
+# stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          https://www.linkedin.com/in/feng-feng-308054146/
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -53,7 +53,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+# behance:           username
 
 # Gems
 gems:
