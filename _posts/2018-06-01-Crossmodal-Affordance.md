@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Markup: HTML Tags and Formatting"
+title: "Crossmodal affordance"
+date:   2018-06-01
+excerpt: "Keywords: "
 categories:
   - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
 ---
 
 A variety of common markup showing how the theme styles them.
