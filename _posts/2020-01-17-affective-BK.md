@@ -23,7 +23,7 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
 ## Affective states with shape-change BK robot
  
-## The "BK"
+### The "BK"
 BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:
 
 <figure>
@@ -32,7 +32,7 @@ BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape 
 
 Make a guess about which label belongs to which shape (Don't google before making a guess!). I have greater than 95% chance of getting your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
 
-## Tangible BK 
+### Tangible BK 
 Above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
@@ -41,7 +41,7 @@ This perceptual correlation also been found between 3D-shapes and the phonemes o
 <img src="{{site.baseurl}}/images/bk/bktangible.jpeg" width = "400"/>
 </figure>
 
-<h5>How this can be utilised in design? </h5>
+### How this can be utilised in design?
 In a CHI mentality, the next question we are thinking about is how can we leverage such a perceptual regularity to benefit our life?
 
 An interting application is to build a perceptual common ground, for instance, the [tangible pain assessment tool](https://designawards.core77.com/health-wellness/82835/Tangible-Pain-Assessment-Tools).
@@ -53,7 +53,7 @@ An interting application is to build a perceptual common ground, for instance, t
 
 This project use tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
 
-<h5>Shape-change BK robot</h5>
+### Shape-change BK robot
 Our ``research concerns`` how people interact with the affordance that shape-change deviced, interfaces and robots provides, both physically and psychologically.
 
 At the current stage, we ``aim`` to empirically investigate emotional states that peole can perceive based on the transition between tangible "Bouba" and "Kiki".
@@ -74,18 +74,8 @@ This little bot feels your heart and synchronise it's breath with you.
 ## Installation and Quick Usage
 * Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
 * Edit `_config.yml` file.
-* Edit `index.md`.
-* Edit `_data/projects.yaml`
-* Add a logo with a small one to `images` folder. (eg. `logo.png`, `logo-small.png`)
-* Remove sample posts from `_posts` folder and add yours.
-* Remove/Change sample images from `images` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
 
 If you want to make a **Project Page**, you have to use `gh-pages` branch. For **Personal Page**; `master` branch. More info [here](https://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process).
-
-## Preview
 
 {% capture images %}
 	{{ site.url }}/images/halve-home-image.png
@@ -103,18 +93,6 @@ If you want to make a **Project Page**, you have to use `gh-pages` branch. For *
       
 See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.      
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
-
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
 #### description
 
 
@@ -126,9 +104,6 @@ url: http://localhost:4000
 url: //cooldude.github.io
 url:
 {% endhighlight %}
-
-#### logo
-Your site's logo. It will be shown on homepage. Also used for twitter meta tags.
 
 #### background
 Here we will set images for left block. Example:
@@ -164,10 +139,6 @@ To set what image links appear in the overlay menu edit `_data/projects.yaml`. U
 
 ---
 
-## Layouts and Content
-
-Halve Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
 ### Images for Posts
 
 You can set left block image per post. Just add `image: some link` to your post's front matter. If you don't set this, default post image will be used from `_config.yml`.
@@ -180,10 +151,4 @@ image: http://example.com/some-image.png
  This also will be used for twitter card:
 
 ![Halve Twitter Card]({{ site.url }}/images/post-image-halve-5.png)
-
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Halve/issues/new). And if you make something cool with this theme feel free to let me know.
 

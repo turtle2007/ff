@@ -9,39 +9,131 @@ excerpt: "Keywords: Augmented crossmodal feedback, sensory-motor synchronisation
   - test -->
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+## Augmented crossmodal feedback for sensory-motor synchronisation
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+### What is sensory-motor synchronisation and why it's worth notice?
+- Sensory-motor synchronisation is ...
+- This abililty is an unique feature of human being. It is important for ...
 
-## Cupidatat 90's lo-fi authentic try-hard
+### How the augmented feedback manifested?
+- Augmented and intrinsic feedback
+- Multimodal and unimodal feedback
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+### What people do with this type of feedback?
+
+### Will the augmented crossmodal feedback improves sensory-motor synchronisation?
+
+### Application area and future works
+- Motor skill learning
+- Rehab
+
+### Do it yourself
+- Hardware
+- Software
+- (github code)
+
+
+## The modulation effect of implicit memory and crossmodal correspondences (CCs) for sketches
+
+
+
+### What is implicit memory?
+- Memory architecture
+<!-- <figure>
+<img src="{{site.baseurl}}/images/proj2/mem.png" width = "300"/>
+</figure> -->
+
+### What is crossmodal correspondences (CCs)?
+- In everyday situation, people consciously and/or subconsciously perceive informaiton from more than five or six senses, vision, audition, haptics, olfaction, gustation, proprioception, locomotion... How does the brain knows which informaiton perceive through different modality that happened at one time should be combined? How does it produce the most robust and veridical perception?
+
+- Some of the informaiton features encountered in everyday life are perceptually associated, such as a high pitch sound always associated with smaller object and higher position. In this case, we say that the auditory perception of pitch is ``corresponded``  with visual perception of size and elevation.
+
+- Crossmodal ``correspondences`` (CCs) is a way that brain organising and combining information from various sources. 
+
+- This perceptual feature is shared by a large number of people across languages and cultures and over the course of human development (though some evidence showed that people who has autism
+spectrum disorder do not possess such perceptual feature). This universal feature thus has great utilisational value for the design of ubiquitous human-machine, human-computer, huamn-robot interfaces.
+
+### What do I mean by 'modulation effect'?
+- It means the influence of crossmodal information on sketch input behaviours in terms of ``speed`` and ``accuracy``.
+- Specifically, we were looking at the ``speed`` of task fulfilment and sketch motion, as well as the ``accuracy`` of sketches and the spatial accuracy of sketch motion.
+
+### What people do with the CCs during sketch?
+- ``Step 1`` The task first requires people to watch a video that contains CCs. The purpose is to 
+
+- ``Step 2`` Then they will do the task. They first see crossmodal stimuli flash in a certain sequence that follows a certain trajectory as show in the following figure. 
+
+<figure>
+<img src="{{site.baseurl}}/images/proj2/9patterns.png" width = "300"/>
+</figure>
+
+The modality features involved in this experiment are: visual brightness, auditory pitch and vibrotactile intensity.
+
+The crossmodal stimuli conforms the CCs, as shown in this table:
+
+| Modalities   |      Correspondences     |
+|----------|:-------------:|------:|
+| Visual-auditory CC|  high brightness - high pitch & low brightness - low pitch |
+| Visual-haptic CC |    high brightness - high intensity & low brightness - low intensity   |
+| Auditory-haptic CC | high pitch - high intensity & low pitch - low intensity |
+{: .table .table-striped .table-hover}
+
+- ``Step 3`` Then people reproduce the sequence by sketching acorss the stimuli. For example:
+
+<figure>
+<img src="{{site.baseurl}}/images/proj2/example_spatial.png" width = "400"/>
+</figure>
+
+- If you want to replicate the experiment, read my paper and following the steps in the 'do it yourself' session.
+
+### Interesting discoveries
+- **Effect of the memory:** We discovered that implicit memory can influence interaction performance. Specifically, priming the implicit memory about CCs (people who watched the priming video in ``Step 1``) can improve high-level task accuracy with reduced task complition time.
+
+- **Effect of the feedback:** We also discovered that people have higher motor accuracy along the horizontal axis with vibrotactile feedback (``Visual-haptic``), and along the vertical axis with auditory feedback (``Visual-auditory``).
+
+### Application area
+- Activate implicit memory about perceptual regularities in cognitive-demanding scenario, such as operation in control room, or device monitoring in clinical scinario, can improve task accuracy, possiblly because of the expanded working memory capacity due to priming.
+
+- Augmenting motion phsses with vibrotactile and auditory feedback (terminal feedback in this particular case) can be apply to the area of motor skill training.
+
+### Do it yourself
+If you want to replicate this experiment, first, read my paper (under review at the moment) to get more detailed info about the experimetnal design; and second, following the instructions below to build the experimental platform.
+
+- Hardware: 
+
+Version 1: hand-based sketch
+
+Version 2: arm-based sketch
+
+- Software: source code can be found [here]:
+
+[here]: https://github.com/turtle2007/Experiment3_graphical
+
+- If you need more info, contact me directly.
+
+## How fast and accurate can you be?
+The influence of crossmodal correspondences (CCs) on people's sensory-motor response (fine-motor performance)
+
+- What is crossmodal correspondences (CCs)
+- What kind of sensory-motor responses are you looking at?
+- Why this sensory-motor ability worth our attention?
+- The task and people's performance
+- How can these study outcomes be used in real-world situations?
+- Do it yourself (groupware schema and github code)
+
+## Know your subconscious perceptual, mentle and motor reactions
+The influence of crossmodal correspondences (CCs) on people's sensory-motor response (gross-motor performance)
+
+- What is crossmodal correspondences (CCs)
+- Why am I interested in this specific perceptual phenomenon?
+- Previous investigation on this matter
+- What's new here?
+- What people do?
+- Results - people's behaviour change
+- The real-world application
+- Other implications?
+- Do it yourself
 
   * Sartorial hoodie
   * Labore viral forage
-  * Tote bag selvage
-  * DIY exercitation et id ugh tumblr church-key
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
-
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
-
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+> Whatever 
