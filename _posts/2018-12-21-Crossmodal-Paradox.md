@@ -10,11 +10,17 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
   - test -->
 ---
 
+## Motivation
+
 An interactive system which supports multisensory communication channels shows advantages in improving people's response time and accuracy. With proper design, it could also reduce cognitive load under heavy task, such as cockpit operation or decision making in command chamber.
 
-### Figures (for images or video)
+To improve the system's usability, information should be presented in a way that is consistent with pervceptual regularities. One way of doing that is to follow `Crossmodal Correspondences (CCs)`.
 
-#### One Up
+`Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (audition) is associated with high position (vision). This regularity is pervasively applied in various situations, from music player tuning to data sonification and to water level monitoring.
+
+## Question
+ 
+## Method
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
