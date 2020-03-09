@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Markup: Crossmodal paradox"
+title: "Crossmodal Paradox"
 date:   2018-12-21
 excerpt: "Examples and code for displaying images in posts."
-image: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
-tags: 
+image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
+<!-- tags: 
   - sample post
   - images
-  - test
+  - test -->
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+An interactive system which supports multisensory communication channels shows advantages in improving people's response time and accuracy. With proper design, it could also reduce cognitive load under heavy task, such as cockpit operation or decision making in command chamber.
 
 ### Figures (for images or video)
 
