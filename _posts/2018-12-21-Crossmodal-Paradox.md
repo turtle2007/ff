@@ -2,7 +2,7 @@
 layout: post
 title: "Crossmodal Paradox"
 date:   2018-12-21
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "Paradoxical perception between sensory modalities."
 image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
 <!-- tags: 
   - sample post
@@ -22,13 +22,13 @@ To improve the system's usability, information should be presented in a way that
 
 The phenomenom of CCs has been extensively investigated in the field of cognitive study. With a well-controlled experimental paradigm (conventionally the speeded classificiation paradigm), We discovered more and more associations not only between visual and auditory modality, but also between visual and haptic, as well as autitory and haptic modality. 
 
-However, the real-world situation is not as clean as the well-controlled experimental environment. Complex sensorial noise usually accompanies user(s) intermettently through the whole course of the task. Under such a circumstance, conflict crossmodal correspondences may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
+However, the real-world situation is not as clean as the well-controlled experimental environment. Complex sensorial noise usually accompanies user(s) intermettently over the course of interactive tasks. Under such a circumstance, conflict crossmodal correspondences may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
 
 ## Aims
 
-- Investigate 
+- Investigate human's perceptual regularities in a less ideal situation, specifically, under the condition where has many CCs, as well as the condition when CCs are mutually exclusive.
 
-- Propose design recommendations
+- Propose design recommendations for multi-sensory systems.
  
 ## Method
 

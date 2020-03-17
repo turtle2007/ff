@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Crossmodal affordance"
+title: "Crossmodal Affordance"
 date:   2018-06-01
-excerpt: "Keywords: "
-categories:
-  - Markup
+excerpt: "Keywords: Concurrent crossmodal information; Dynamic affordance; Tangible display; 2.5D interface"
+<!-- categories:
+  - Markup -->
 ---
 
-A variety of common markup showing how the theme styles them.
+# Research Question
 
-# Header one
+
+# Background & Motivation
 
 ## Header two
 
@@ -21,9 +22,9 @@ A variety of common markup showing how the theme styles them.
 
 ###### Header six
 
-## Blockquotes
+# Method
 
-Single line blockquote:
+## Investigation platform
 
 > Stay hungry. Stay foolish.
 

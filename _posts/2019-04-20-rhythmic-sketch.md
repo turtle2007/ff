@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rhythmic sketch"
+title: "Rhythmic Sketch"
 date:   2019-04-20
 excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchronization"
 ---

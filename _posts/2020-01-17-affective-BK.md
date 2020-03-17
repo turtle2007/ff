@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Affective BK robot"
+title:  "Affective BK Robot"
 date:   2020-01-17
 excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
