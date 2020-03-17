@@ -32,12 +32,18 @@ However, the real-world situation is not as clean as the well-controlled experim
  
 ## Method
 
-Cognitive priming
+We created webapp games which display two CCs at the same time: `Pitch-brightness` and `Pitch-elevition` correspondences. 
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "400"/>
 </figure>
+
+In the [easy] level, the two CCs are isolated and not affecting each other:
+
+[easy]: https://github.com/turtle2007/Study2
+
+In a harder level, the two CCs are co-existed and mutually exclusive. (Code waiting to be uploaded)
+
 
 
 #### Two Up
