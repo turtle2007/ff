@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crossmodal Affordance"
+title: "Crossmodal affordance"
 date:   2018-06-01
 excerpt: "Keywords: "
 categories:
