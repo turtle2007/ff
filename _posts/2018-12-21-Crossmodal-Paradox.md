@@ -26,7 +26,8 @@ To improve the system's usability, information should be presented in a way that
 </figure> -->
 
 <figure>
-	<img src="{{site.baseurl}}/images/paradox/K_tension.png" width = "700"/>
+	<img src="{{site.baseurl}}/images/paradox/K_tension.jpg" width = "700"/>
+	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper..</figcaption>
 </figure>
 
 ## Question
@@ -74,7 +75,11 @@ In a harder level, the two CCs are co-existed and mutually exclusive. (Code wait
 - perceptual alinement about CCs
 
 
-## Results
+## Results and design recomendations
+
+First, 
+
+
 
 #### Three Up
 
