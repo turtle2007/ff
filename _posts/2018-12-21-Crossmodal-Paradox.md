@@ -61,6 +61,8 @@ The visual and auditory stimuli are controlled as shown in the figure below:
 	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "700"/>
 </figure>
 
+For the detailed description, please read my paper.
+
 #### Experiment 1
 
 In the [easy] level, the two CCs are isolated and not affecting each other.
@@ -84,11 +86,15 @@ In a harder level, the two CCs are co-existed and mutually exclusive. (Code wait
 
 ## Results and design recomendations
 
-First, 
+- In a less ideal interactive situation where involves complex streams of information, people's perceptual behaviour can not be predicted by previous study that have been conducted in a clean, strictly controlled environment. When comes to design, we recomment a different perspective to consider how to best display crossmdoal information, that is, acknowledge the fact that there will always be distractions and noise. Instead of blocking those (which is impossible in most of the real-world interactive acticities), design a system which is rest among chaotic environment, and has the capacity to self-emphasizing intended messages that need to be conveyed.
+
+- Cognitive priming technique is able to improve people's crossmodal perception, but only when priming remain subliminal. When consider the design of multi-sensory system, we need to take into account the priming effect that external stimulation (i.e. situated information) might place on people's perception and attention. Either take advantage of it for improving information processing efficiency and accuracy, or try to lower the effect of it to avoid potential distractions.
+
+- One of the advantages of multi-sensory interactive system is to expand people's cognitive capacity by conveying several streams of information through different sensory channels. With this line of thinking, there's a possibility that the CCs could be mutually exclusive if they share the same pair of sensory channels. Possible solutions could be shunting different crossmodal information spatially or temporally, or choosing different pairs of crossmodal sensory channels to reduce distraction, such as using both the visual-audio channels and the visual-haptic channels.
 
 
 
-#### Three Up
+<!-- #### Three Up
 
 And you'll get something that looks like this:
 
@@ -97,4 +103,4 @@ And you'll get something that looks like this:
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<figcaption>Three images.</figcaption>
-</figure>
+</figure> -->
