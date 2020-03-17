@@ -20,9 +20,13 @@ To improve the system's usability, information should be presented in a way that
 
 - Interestingly, many artists have advanced sensory acuity which enable them to capture CCs and reflect in their art works (either intentionally or subconsciously). See how many CCs can you pick out from Kandinsky's visual composition:
 
-<figure>
+<!-- <figure>
 	<img src="https://www.museothyssen.org/en/collection/artists/kandinsky-wassily/delicate-tension-no-85">
 	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper..</figcaption>
+</figure> -->
+
+<figure>
+	<img src="{{site.baseurl}}/images/paradox/K_tension" width = "700"/>
 </figure>
 
 ## Question
