@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crossmodal sketching"
+title: "Crossmodal Sketching"
 date:   2019-06-22
 excerpt: "Keywords: Augmented crossmodal feedback, sensory-motor synchronisation"
 <!-- tags: 

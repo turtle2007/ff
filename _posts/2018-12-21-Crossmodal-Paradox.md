@@ -1,27 +1,44 @@
 ---
 layout: post
-title: "Markup: Crossmodal paradox"
+title: "Crossmodal Paradox"
 date:   2018-12-21
 excerpt: "Examples and code for displaying images in posts."
-image: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
-tags: 
+image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
+<!-- tags: 
   - sample post
   - images
-  - test
+  - test -->
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+## Motivation
 
-### Figures (for images or video)
+An interactive system which supports multisensory communication channels shows advantages in improving people's response time and accuracy. With proper design, it could also reduce cognitive load under heavy task, such as cockpit operation or decision making in command chamber.
 
-#### One Up
+To improve the system's usability, information should be presented in a way that is consistent with perceptual regularities. One way of doing that is to follow `Crossmodal Correspondences (CCs)`.
+
+- `Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (audition) is associated with high position (vision). This regularity is pervasively applied in various situations, from music player tuning to data sonification and to water level monitoring.
+
+## Question
+
+The phenomenom of CCs has been extensively investigated in the field of cognitive study. With a well-controlled experimental paradigm (conventionally the speeded classificiation paradigm), We discovered more and more associations not only between visual and auditory modality, but also between visual and haptic, as well as autitory and haptic modality. 
+
+However, the real-world situation is not as clean as the well-controlled experimental environment. Complex sensorial noise usually accompanies user(s) intermettently through the whole course of the task. Under such a circumstance, conflict crossmodal correspondences may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
+
+## Aims
+
+- Investigate 
+
+- Propose design recommendations
+ 
+## Method
+
+Cognitive priming
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 #### Two Up
 
@@ -64,37 +81,3 @@ And you'll get something that looks like this:
 	<img src="http://placehold.it/600x300.jpg">
 	<figcaption>Three images.</figcaption>
 </figure>
-
-### Alternative way
-
-Another way to achieve the same result is to include `gallery` Liquid template. In this case you
-don't have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.
-
-Here is the block you might want to use:
-
-{% highlight liquid %}
-{% raw %}
-{% capture images %}
-	http://placehold.it/600x300.jpg
-	http://placehold.it/600x300.jpg
-	http://placehold.it/600x300.jpg
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
-{% endraw %}
-{% endhighlight %}
-
-Parameters:
-
-- `caption`: Sets the caption under the gallery (see `figcaption` HTML tag above);
-- `cols`: Sets the number of columns of the gallery.
-Available values: [1..3].
-
-It will look something like this:
-
-{% capture images %}
-	http://placehold.it/600x300.jpg
-	http://placehold.it/600x300.jpg
-	http://placehold.it/600x300.jpg
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
