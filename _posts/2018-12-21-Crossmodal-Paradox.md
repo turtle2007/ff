@@ -32,52 +32,40 @@ However, the real-world situation is not as clean as the well-controlled experim
  
 ## Method
 
-We created webapp games which display two CCs at the same time: `Pitch-brightness` and `Pitch-elevition` correspondences. 
+We created webapp games which display two CCs at the same time: `Pitch-brightness` and `Pitch-elevition` correspondences. We use cognitive priming technique to prime people the intended CC that will help their task.
+
+The task is to listen and watch a crossmodal sequence, either following `Pitch-brightness` or `Pitch-elevition` correspondence. Then reproduce the sequence as quickly and accurately as possible.
+
+The visual and auditory stimuli are controlled as shown in the figure below:
 
 <figure>
-	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "400"/>
+	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "600"/>
 </figure>
 
-In the [easy] level, the two CCs are isolated and not affecting each other:
+#### Experiment 1
+
+In the [easy] level, the two CCs are isolated and not affecting each other.
 
 [easy]: https://github.com/turtle2007/Study2
 
+#### Experiment 2
+
 In a harder level, the two CCs are co-existed and mutually exclusive. (Code waiting to be uploaded)
 
+### Data collection
+
+- time intervals between each input (mouse click)
+
+- error rate of repeating the crossmodal sequences
+
+- subjective interpretation of priming materials
+
+- perceptual alinement about CCs
 
 
-#### Two Up
-
-Apply the `half` class like so to display two images side by side that share the same caption.
-
-```html
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-```
-
-And you'll get something that looks like this:
-
-<figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
+## Results
 
 #### Three Up
-
-Apply the `third` class like so to display three images side by side that share the same caption.
-
-```html
-<figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-```
 
 And you'll get something that looks like this:
 
