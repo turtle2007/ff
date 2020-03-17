@@ -16,7 +16,14 @@ An interactive system which supports multisensory communication channels shows a
 
 To improve the system's usability, information should be presented in a way that is consistent with perceptual regularities. One way of doing that is to follow `Crossmodal Correspondences (CCs)`.
 
-- `Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (audition) is associated with high position (vision). This regularity is pervasively applied in various situations, from music player tuning to data sonification and to water level monitoring.
+- `Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (audition) is associated with high position (vision). This regularity is pervasively applied in various situations, such as music player tuning, data sonification, water level monitoring, facilitating motor skill learning etc.
+
+- Interestingly, many artists have advanced sensory acuity which enable them to capture CCs and reflect in their art works (either intentionally or subconsciously). See how many CCs can you pick out from Kandinsky's visual composition:
+
+<figure>
+	<img src="https://www.museothyssen.org/en/collection/artists/kandinsky-wassily/delicate-tension-no-85">
+	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper..</figcaption>
+</figure>
 
 ## Question
 
@@ -39,7 +46,7 @@ The task is to listen and watch a crossmodal sequence, either following `Pitch-b
 The visual and auditory stimuli are controlled as shown in the figure below:
 
 <figure>
-	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "600"/>
+	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "700"/>
 </figure>
 
 #### Experiment 1
