@@ -26,7 +26,7 @@ To improve the system's usability, information should be presented in a way that
 </figure> -->
 
 <figure>
-	<img src="{{site.baseurl}}/images/paradox/K_tension" width = "700"/>
+	<img src="{{site.baseurl}}/images/paradox/K_tension.png" width = "700"/>
 </figure>
 
 ## Question
