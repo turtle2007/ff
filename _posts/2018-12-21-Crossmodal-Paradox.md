@@ -27,7 +27,14 @@ To improve the system's usability, information should be presented in a way that
 
 <figure>
 	<img src="{{site.baseurl}}/images/paradox/K_tension.jpg" width = "700"/>
-	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper..</figcaption>
+	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper.</figcaption>
+</figure>
+
+and from Zhu Da's spiritual reflection:
+
+<figure>
+	<img src="{{site.baseurl}}/images/paradox/bdsr.jpg" width = "700"/>
+	<figcaption>Zhu Da, Hua Niao Series, 1626-1705, Calligraphy and ink on paper.</figcaption>
 </figure>
 
 ## Question
