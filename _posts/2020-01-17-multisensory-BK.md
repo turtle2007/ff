@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Affective BK Robot"
+title:  "Multisensory BK forms"
 date:   2020-01-17
-excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
+excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience"
 
 <!-- tag:
 - jekyll 
@@ -21,9 +21,8 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
-## Affective states with shape-change BK robot
  
-### The "BK"
+## The "BK" and the multisensory experience
 BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:
 
 <figure>
@@ -32,7 +31,7 @@ BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape 
 
 Make a guess about which label belongs to which shape (Don't google before making a guess!). I have greater than 95% chance of getting your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
 
-### Tangible BK 
+## Tangible BK 
 Above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
@@ -41,7 +40,7 @@ This perceptual correlation also been found between 3D-shapes and the phonemes o
 <img src="{{site.baseurl}}/images/bk/bktangible.jpeg" width = "400"/>
 </figure>
 
-### How this can be utilised in design?
+## How this can be utilised in design?
 In a CHI mentality, the next question we are thinking about is how can we leverage such a perceptual regularity to benefit our life?
 
 An interting application is to build a perceptual common ground, for instance, the [tangible pain assessment tool](https://designawards.core77.com/health-wellness/82835/Tangible-Pain-Assessment-Tools).
@@ -53,22 +52,22 @@ An interting application is to build a perceptual common ground, for instance, t
 
 This project use tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
 
-### Shape-change BK robot
+<!-- ### Shape-change BK robot
 Our ``research concerns`` how people interact with the affordance that shape-change deviced, interfaces and robots provides, both physically and psychologically.
 
 At the current stage, we ``aim`` to empirically investigate emotional states that peole can perceive based on the transition between tangible "Bouba" and "Kiki".
 
-We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
+We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki". -->
 
 <!-- <iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Result:** wait for the update.
 
 ## BK for fun
 This little bot feels your heart and synchronise it's breath with you.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
       
 ## Installation and Quick Usage
