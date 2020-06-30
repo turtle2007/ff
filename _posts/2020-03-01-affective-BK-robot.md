@@ -29,12 +29,9 @@ In nature, information is conveyed not only through language, but also through p
 
 Of all the possible information channals, I'm paraticularly interested in the modality of shape-change. Look at following pics:
 
-
-
 <figure>
-<img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
+<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" width = "400"/>
 </figure>
-
 
 
 
