@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Affective BK Robot"
-date:   2020-01-17
+date:   2020-03-01
 excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
 <!-- tag:
@@ -21,10 +21,15 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
-## Affective states with shape-change BK robot
+## Explore human's emotional space when they interact with a robot who has a shape-changing skin
+<!-- Affective states with shape-change BK robot -->
  
-### Research purpose
-tobe ...
+### Research story
+In nature, information is conveyed not only through language, but also through postures, shapes, ultrosonics, formations (of ants, brids, bees etc.) 
+
+Of all the possible information channals, I'm paraticularly interested in the modality of shape-change. Look at following pics:
+
+
 
 <figure>
 <img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
@@ -32,21 +37,6 @@ tobe ...
 
 
 
-### Shape-change BK robot
-Our ``research concerns`` how people interact with the affordance that shape-change deviced, interfaces and robots provides, both physically and psychologically.
 
-At the current stage, we ``aim`` to empirically investigate emotional states that peole can perceive based on the transition between tangible "Bouba" and "Kiki".
-
-We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
-
-<!-- <iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-**Result:** wait for the update.
-
-## BK for fun
-This little bot feels your heart and synchronise it's breath with you.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

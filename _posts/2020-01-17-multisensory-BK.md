@@ -37,7 +37,7 @@ Above example shows crossmodal correlation exists between 2D-shape recognition a
 This perceptual correlation also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
 
 <figure>
-<img src="{{site.baseurl}}/images/bk/bktangible.jpeg" width = "400"/>
+<img src="{{site.baseurl}}/images/bk/bkTangible.jpeg" width = "400"/>
 </figure>
 
 ## How this can be utilised in design?
@@ -52,22 +52,22 @@ An interting application is to build a perceptual common ground, for instance, t
 
 This project use tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
 
-<!-- ### Shape-change BK robot
+### Shape-change BK robot
 Our ``research concerns`` how people interact with the affordance that shape-change deviced, interfaces and robots provides, both physically and psychologically.
 
 At the current stage, we ``aim`` to empirically investigate emotional states that peole can perceive based on the transition between tangible "Bouba" and "Kiki".
 
-We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki". -->
+We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
 
-<!-- <iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe> -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Result:** wait for the update.
 
 ## BK for fun
 This little bot feels your heart and synchronise it's breath with you.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       
 ## Installation and Quick Usage
