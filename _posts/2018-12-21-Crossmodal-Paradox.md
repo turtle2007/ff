@@ -10,20 +10,17 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
   - test -->
 ---
 
-## Motivation
+## Research background
 
-An interactive system which supports multisensory communication channels shows advantages in improving people's response time and accuracy. With proper design, it could also reduce cognitive load under heavy task, such as cockpit operation or decision making in command chamber.
+In the field of human-automation interaction, the question of how to improve operational efficiency and safety, especially in the time-sensitive and/or safety-critical settings, has always been in the central discussion.
 
-To improve the system's usability, information should be presented in a way that is consistent with perceptual regularities. One way of doing that is to follow `Crossmodal Correspondences (CCs)`.
+Many system designs, such as monitoring system in factories, power plants, and/or semi-automated driving, requires careful consideration on the display of multi-sensory information. 
 
-- `Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (audition) is associated with high position (vision). This regularity is pervasively applied in various situations, such as music player tuning, data sonification, water level monitoring, facilitating motor skill learning etc.
+One strategy of improving the system's usability is to present multisensory information in a way that is consistent with everyday perceptual regularities. One of the multisensory regularities is called `Crossmodal Correspondences (CCs)`.
 
-- Interestingly, many artists have advanced sensory acuity which enable them to capture CCs and reflect in their art works (either intentionally or subconsciously). See how many CCs can you pick out from Kandinsky's visual composition:
+- `Crossmodal Correspondence`: Perceptual association between sensory modalities. For example, high pitch (auditory perception) is associated with a high position (visual perception). This regularity is pervasively applied in various situations, such as music player tuning, data sonification, water level monitoring, facilitating motor skill learning etc.
 
-<!-- <figure>
-	<img src="https://www.museothyssen.org/en/collection/artists/kandinsky-wassily/delicate-tension-no-85">
-	<figcaption>Wassily Kandinsky, Delicate tension, NO. 85, 1923, Watercolor and ink on paper..</figcaption>
-</figure> -->
+- Interestingly, many artists have advanced sensory acuity which enables them to capture CCs and reflect in their artworks (either intentionally or subconsciously). See how many CCs can you pick out from Kandinsky's visual composition:
 
 <figure>
 	<img src="{{site.baseurl}}/images/paradox/K_tension.jpg" width = "700"/>
@@ -41,57 +38,28 @@ and from Zhu Da's spiritual reflection:
 
 The phenomenom of CCs has been extensively investigated in the field of cognitive study. With a well-controlled experimental paradigm (conventionally the speeded classificiation paradigm), We discovered more and more associations not only between visual and auditory modality, but also between visual and haptic, as well as autitory and haptic modality. 
 
-However, the real-world situation is not as clean as the well-controlled experimental environment. Complex sensorial noise usually accompanies user(s) intermettently over the course of interactive tasks. Under such a circumstance, conflict crossmodal correspondences may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
+However, CC implementations with an effort from Human-computer interaction (HCI) have certain limi- tations due to the following reasons:
 
-## Aims
+* the real-world situation is not as clean as the well-controlled experimental environment. Streams of interactive information unavoidably mingle with physical and attentional background noise, which may act as visual, auditory or multisensory distractors.
 
-- Investigate human's perceptual regularities in a less ideal situation, specifically, under the condition where has many CCs, as well as the condition when CCs are mutually exclusive.
+* many cases of crossmodal interaction, such as spatial localisation, graph sonification, and motor skill learning, involve consistent sensory-motor responses with continuous, and graded crossmodal feedback. We lack empirical knowledge on how such crossmodal stimuli influence interaction that requires consistent sensory-motor engagement.
 
-- Propose design recommendations for multi-sensory systems.
+* Complex sensorial noise usually occures intermettently over the course of interactive tasks. Under such a circumstance, mutrally exclusive CCs may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
+
+In this project, we are `aiming` to tackle following two questions:
+
+* RQ1: Whether people's crossmodal perception can be enhanced by cognitive priming, and if it can be, to what extent it modulates small and fast sensory-motor responses in an interactive task?
+
+* RQ2: How do people integrate crossmodal information in which two CCs are mutually exclusive? Furthermore, how, if at all,  does the integration of such information change in the presence or absence of cognitive priming? 
+
  
-## Method
+## Method, results and implications for design
 
-We created webapp games which display two CCs at the same time: `Pitch-brightness` and `Pitch-elevition` correspondences. We use cognitive priming technique to prime people the intended CC that will help their task.
+The published results of this project can be found [here](https://scholar.google.com/citations?authuser=1\&user=IHMO\_z0AAAAJ):
 
-The task is to listen and watch a crossmodal sequence, either following `Pitch-brightness` or `Pitch-elevition` correspondence. Then reproduce the sequence as quickly and accurately as possible.
+Title: Exploring crossmodal perceptual enhancement and integration in a sequence reproducing task with cognitive priming
 
-The visual and auditory stimuli are controlled as shown in the figure below:
-
-<figure>
-	<img src="{{site.baseurl}}/images/paradox/Fig1.eps" width = "700"/>
-</figure>
-
-For the detailed description, please read my paper.
-
-#### Experiment 1
-
-In the [easy] level, the two CCs are isolated and not affecting each other.
-
-[easy]: https://github.com/turtle2007/Study2
-
-#### Experiment 2
-
-In a harder level, the two CCs are co-existed and mutually exclusive. (Code waiting to be uploaded)
-
-### Data collection
-
-- time intervals between each input (mouse click)
-
-- error rate of repeating the crossmodal sequences
-
-- subjective interpretation of priming materials
-
-- perceptual alinement about CCs
-
-
-## Results and design recomendations
-
-- In a less ideal interactive situation where involves complex streams of information, people's perceptual behaviour can not be predicted by previous study that have been conducted in a clean, strictly controlled environment. When comes to design, we recomment a different perspective to consider how to best display crossmdoal information, that is, acknowledge the fact that there will always be distractions and noise. Instead of blocking those (which is impossible in most of the real-world interactive acticities), design a system which is rest among chaotic environment, and has the capacity to self-emphasizing intended messages that need to be conveyed.
-
-- Cognitive priming technique is able to improve people's crossmodal perception, but only when priming remain subliminal. When consider the design of multi-sensory system, we need to take into account the priming effect that external stimulation (i.e. situated information) might place on people's perception and attention. Either take advantage of it for improving information processing efficiency and accuracy, or try to lower the effect of it to avoid potential distractions.
-
-- One of the advantages of multi-sensory interactive system is to expand people's cognitive capacity by conveying several streams of information through different sensory channels. With this line of thinking, there's a possibility that the CCs could be mutually exclusive if they share the same pair of sensory channels. Possible solutions could be shunting different crossmodal information spatially or temporally, or choosing different pairs of crossmodal sensory channels to reduce distraction, such as using both the visual-audio channels and the visual-haptic channels.
-
+DOI: 10.1007/s12193-020-00326-y
 
 
 <!-- #### Three Up
