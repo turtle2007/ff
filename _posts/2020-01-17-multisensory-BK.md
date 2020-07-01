@@ -59,18 +59,17 @@ At the current stage, we ``aim`` to empirically investigate emotional states tha
 
 We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
 
-<iframe width="420" src="https://youtu.be/WCvqHNx1njk" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Result:** wait for the update.
+<!-- **Result:** wait for the update. -->
 
-## BK for fun
+## BK for fun: augment heart beat
 This little bot feels your heart and synchronise it's breath with you.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       
-## Installation and Quick Usage
+<!-- ## Installation and Quick Usage
 * Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
 * Edit `_config.yml` file.
 
@@ -149,5 +148,5 @@ image: http://example.com/some-image.png
 ```    
  This also will be used for twitter card:
 
-![Halve Twitter Card]({{ site.url }}/images/post-image-halve-5.png)
+![Halve Twitter Card]({{ site.url }}/images/post-image-halve-5.png) -->
 

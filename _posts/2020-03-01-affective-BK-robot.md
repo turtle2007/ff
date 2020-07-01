@@ -2,7 +2,7 @@
 layout: post
 title:  "Affective BK Robot"
 date:   2020-03-01
-excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
+excerpt: "Keywords: Affective robot, Shape-change skin, Touch"
 
 <!-- tag:
 - jekyll 
@@ -35,6 +35,12 @@ Of all the possible information channels, I'm particularly interested in the mod
 (The hedgehocs' pic are borrowed from http://blog.critterconnection.cc/spine-language/)
 
 Nowadays we have algorithms, intelligent agents or robots that are able to touch human's emotions by reading human's facial expressions, physiological signals, body language etc. However, there are limited communication channels for the robots to convey their richness underlying states. This problem has two folds. On the one hand, humans become increasingly transparent to the robots, while robots are increasingly opaque to humans (especially to non-expert users), which leads to information inequality. On the other hand, inadequate expressive channels limit interaction space between human and robots, and diminish good user experience (UX) in human-robot/computer interaction (as shown in figure below).
+
+
+{% capture images %}
+  {{ site.url }}/images/bk_robot/HRI_info_trans.png
+{% endcapture %}
+{% include gallery images=images caption="Human-robot/computer information channels" cols=3 %}
 
 <figure>
 <img src="{{site.baseurl}}/images/bk_robot/HRI_info_trans.png" width = "350"/>
