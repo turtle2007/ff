@@ -21,19 +21,24 @@ excerpt: "Keywords: Shape-change, Affective robot, Bouba-kiki effect"
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
-## Explore human's emotional space when they interact with a robot who has a shape-changing skin
-<!-- Affective states with shape-change BK robot -->
+## Explore human's emotional states when they interact with a robot who has a shape-changing skin
  
 ### Research story
-In nature, information is conveyed not only through language, but also through postures, shapes, ultrosonics, formations (of ants, brids, bees etc.) 
+In nature, information is conveyed through not only language but a variety of channels such as postures, shapes, ultrasonics, swarm formations (of ants, birds, bees etc.).
 
-Of all the possible information channals, I'm paraticularly interested in the modality of shape-change. Look at following pics:
+Of all the possible information channels, I'm particularly interested in the modality of shape-change. Look at following pics. The shapes convey very clear messages that can be perceived by human and raise certain affective states.
 
 <figure>
 <img src="{{site.baseurl}}/images/bk_robot/in_nature.png" width = "400"/>
 </figure>
 
+(The hedgehocs' pic are borrowed from http://blog.critterconnection.cc/spine-language/)
 
+Nowadays we have algorithms, intelligent agents or robots that are able to touch human's emotions by reading human's facial expressions, physiological signals, body language etc. However, there are limited communication channels for the robots to convey their richness underlying states. This problem has two folds. On the one hand, humans become increasingly transparent to the robots, while robots are increasingly opaque to humans (especially to non-expert users), which leads to information inequality. On the other hand, inadequate expressive channels limit interaction space between human and robots, and diminish good user experience (UX) in human-robot/computer interaction.
 
+(TODO: add figure)
 
+What if a robot has a skin which conveys information through shape-change mechanism? How would human understand the robot's messages by perceiving the change of the skin? 
+
+This project aims to...
 
