@@ -65,10 +65,19 @@ We built a pneumatically actuated robot, the BK robot, and control the size, spe
 <!-- **Result:** wait for the update. -->
 
 ## BK for fun: augment heart beat
-This little bot feels your heart and synchronise it's breath with you.
+This little bot feels your heart and synchronise it's beat with you.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-      
+## Next step: 
+
+* Understanding the effect of shape-transformation on emotional states, so that:
+
+* a. Develop a wearable shape-change skin for robot and human
+
+* b. Explore how this shape-change mechanism can be applied to Human-human and Human-robot interaction (HHI and HRI)
+ 
+
+
 <!-- ## Installation and Quick Usage
 * Fork the [Halve repo](https://github.com/TaylanTatli/Halve/fork)
 * Edit `_config.yml` file.
