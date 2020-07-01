@@ -34,7 +34,7 @@ and from Zhu Da's spiritual reflection:
 	<figcaption>Zhu Da, Hua Niao Series, 1626-1705, Calligraphy and ink on paper.</figcaption>
 </figure>
 
-## Question
+## Research questions and aim
 
 The phenomenom of CCs has been extensively investigated in the field of cognitive study. With a well-controlled experimental paradigm (conventionally the speeded classificiation paradigm), We discovered more and more associations not only between visual and auditory modality, but also between visual and haptic, as well as autitory and haptic modality. 
 
@@ -55,7 +55,7 @@ In this project, we are `aiming` to tackle following two questions:
  
 ## Method, results and implications for design
 
-The published results of this project can be found [here](https://scholar.google.com/citations?authuser=1\&user=IHMO\_z0AAAAJ):
+If you are interested in knowing the discoveries and contributions of this project, you can read the published paper from [here](https://scholar.google.co.uk/citations?user=IHMO_z0AAAAJ&hl=en&oi=ao). 
 
 Title: Exploring crossmodal perceptual enhancement and integration in a sequence reproducing task with cognitive priming
 
