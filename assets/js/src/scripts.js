@@ -10,7 +10,7 @@ $(function() {
 $('.projects-menu-icon').click(function() {
   $('html').toggleClass('no-scroll');
   $(this).toggleClass('active');
-  $('.overlay').toggleClass('show');
+  // $('.overlay').toggleClass('show');
 });
   
 // All others
