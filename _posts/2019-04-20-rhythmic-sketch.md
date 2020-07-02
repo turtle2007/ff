@@ -110,5 +110,5 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
 
 Can augmening motion features (DTW distance or the level of motion smoothness ) as the real-time multimodal feedback further support motor skill recovery?
 
-``(For more details of this study, please wait. The paper was submitted to the journal of human-computer studies, and is currently under review.)``
+``(For full details of this study, please wait for the paper submitted to the journal of human-computer studies, and is currently under review.)`` While a preliminary study can be found [here]: (https://dl.acm.org/doi/abs/10.1145/3290607.3312812)
 
