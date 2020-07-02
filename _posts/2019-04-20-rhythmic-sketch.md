@@ -61,7 +61,7 @@ We follow the multi-layered conceptual framewrok proposed by Camurri et al, 2016
 Multi-layered conceptual framewrok:
 
 | LAYERS   |      PARAMETERS     | EXAMPLES  |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------:|
 | Layer 4 |  Qualities communication |  Emotions, social signals  |
 | Layer 3 |  Mid-level features  |  Amodel features like smoothness  |
 | Layer 2 |  Low-level features |  Speed, Accelerations  |
@@ -80,16 +80,21 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
 - Layer 2: Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
 
 - Layer 3: 
-Sketch motion smoothness - measured by the number of velocity peaks.
 
-Rhythm accuracy - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
+``Sketch motion smoothness`` - measured by the number of velocity peaks.
 
+``Rhythm accuracy`` - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
 
+{% capture images %}
+  {{ site.url }}/images/touchRhythms/kinematics.png
+  {{ site.url }}/images/touchRhythms/correlation.png
+{% endcapture %}
+{% include gallery images=images caption="Motion precision, smoothness and accuracy" cols=3 %}
 
-<figure>
-<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:400px"/>
+<!-- <figure>
+<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:350px"/>
 <img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:200px"/>
-</figure>
+</figure> -->
 
 (Performance with multi-sensory feedback have the correlation all above 0.5, as shown in the figure above, which indicates a good accuracy of sketched rhythm.)
 
