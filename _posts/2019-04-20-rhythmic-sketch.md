@@ -52,7 +52,7 @@ Five-beats rhythm
 Performance with multimodal feedback have the correlation all above 0.5, as shown in the figure below, which indicates a good accuracy of sketched rhythm.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:200px"/>
 </figure>
 
 Limitation: This evaluation cannot tell the quality of the sketch movements, we need something that can reflect people’s motion features.
