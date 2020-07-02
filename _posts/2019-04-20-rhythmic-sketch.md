@@ -18,7 +18,7 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
  - Analyse motion quality with a multi-layered computational framework.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "70%"/>
 </figure>
 
 <h5> Study requirements </h5>
