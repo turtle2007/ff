@@ -5,17 +5,17 @@ date:   2019-04-20
 excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchronization"
 ---
 
-## Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation
+## Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill
 
 <h5>Keywords</h5>
-``Augmented feedback, multimodal stimuli, Sensorimotor synchronization``
+``Augmented feedback, multisensory stimuli, Sensorimotor synchronization``
 
 
 <h5>Purposes</h5>
 
-- Help minor stroke patients to recover lost motor function, particularly the sensorimotor synchronisation.
-- Use an unobtrusive way to present feedback to the patient without disturbing surrounding people.
-- Combine usability evaluation with the kinematic evaluation methods.
+- Get people engaged with motor training, particularly the skill of sensorimotor synchronisation.
+- Use an unobtrusive way to display feedback without disturbing surrounding people.
+ - Analyse motion quality with a multi-layered computational framework.
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "400"/>
@@ -25,10 +25,10 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
 
 1. easy to pick up the practice
 2. real-time feedback of motion
-3. multimodal feedback
+3. multisensory feedback
 
 <h5> Practice task </h5>
-Make rhythmic sketches following a rhythm
+Sketch rhythmic patterns by hand or arm following a sample rhythm.
 
 <h5> Stimuli for the trianing </h5>
 
@@ -36,7 +36,7 @@ Make rhythmic sketches following a rhythm
 Auditory and vibrotactile signal onset
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/AVtiming.png" width = "400"/>
+<img src="{{site.baseurl}}/images/touchRhythms/AVtiming.png" width = "200"/>
 </figure>
 
 
@@ -44,7 +44,7 @@ Auditory and vibrotactile signal onset
 Five-beats rhythm
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/lrlrl.png" width = "400"/>
+<img src="{{site.baseurl}}/images/touchRhythms/lrlrl.png" width = "200"/>
 </figure>
 
 <h5> Evaluation and results </h5>
@@ -88,6 +88,8 @@ The remaining question is:
 Can augmening motion features (DTW distance or the level of motion smoothness ) as the real-time multimodal feedback further support motor skill recovery?
 
 ``(For more details of this study, please wait. The paper was submitted to the journal of human-computer studies, and is currently under review.)``
+
+
 
 ---
 
