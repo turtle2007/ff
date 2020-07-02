@@ -60,11 +60,12 @@ We follow the multi-layered conceptual framewrok proposed by Camurri et al, 2016
 
 The crossmodal stimuli conforms the CCs, as shown in this table:
 
-| Modalities   |      Correspondences     |
+| LAYERS   |      PARAMETERS     | EXAMPLES
 |----------|:-------------:|------:|
-| Visual-auditory CC|  high brightness - high pitch & low brightness - low pitch |
-| Visual-haptic CC |    high brightness - high intensity & low brightness - low intensity   |
-| Auditory-haptic CC | high pitch - high intensity & low pitch - low intensity |
+| Layer 4 |  Qualities communication |  Emotions, social signals  |
+| Layer 3 |  Mid-level features  |
+| Layer 2 |  Low-level features |
+| Layer 1 |  Physical signals, virtual sensors |
 {: .table .table-striped .table-hover}
 
 Layer 1: We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
