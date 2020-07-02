@@ -89,7 +89,7 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
   {{ site.url }}/images/touchRhythms/kinematics.png
   {{ site.url }}/images/touchRhythms/correlation.png
 {% endcapture %}
-{% include gallery images=images caption="Motion precision, smoothness and accuracy" cols= 5 %}
+{% include gallery images=images caption="Motion precision, smoothness and accuracy" cols= 4 %}
 
 <!-- <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:350px"/>
@@ -100,11 +100,11 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
 
 <h5> Discoveries </h5>
 
-We learned that VA (Visual-auditory) feedback support the best rhythmic motion precision, but worst motion smoothness, and that VH (Visual-haptic) feedback support the best motion smoothness.
+- We learned that VA (Visual-auditory) feedback support the best rhythmic motion precision, but worst motion smoothness, and that VH (Visual-haptic) feedback support the best motion smoothness.
 
-To support Sensorimotor Synchronization skill recovery, providing VA and VH feedback could improve motion precision and movement smoothness. However, these results need to be verified with real patients in the future.
+- To support Sensorimotor Synchronization skill recovery, providing VA and VH feedback could improve motion precision and movement smoothness. However, these results need to be verified with real patients in the future.
 
-Providing vibrotactile feedback is indeed facilitate rhythmic motion performance in an unobtrusive way.
+- Providing vibrotactile feedback is indeed facilitate rhythmic motion performance in an unobtrusive way.
 
 <h5>The remaining question</h5>
 
