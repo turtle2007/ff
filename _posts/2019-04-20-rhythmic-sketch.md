@@ -36,7 +36,7 @@ Sketch rhythmic patterns by hand or arm following a sample rhythm.
 Auditory and vibrotactile signal onset
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/AVtiming.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/AVtiming.png" style = "width:300px"/>
 </figure>
 
 
@@ -44,7 +44,7 @@ Auditory and vibrotactile signal onset
 Five-beats rhythm
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/lrlrl.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/lrlrl.png" style = "width:300px"/>
 </figure>
 
 <h5> Evaluation and results </h5>
@@ -52,7 +52,7 @@ Five-beats rhythm
 Performance with multimodal feedback have the correlation all above 0.5, as shown in the figure below, which indicates a good accuracy of sketched rhythm.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:200px"/>
+<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:300px"/>
 </figure>
 
 Limitation: This evaluation cannot tell the quality of the sketch movements, we need something that can reflect people’s motion features.
@@ -63,7 +63,7 @@ Limitation: This evaluation cannot tell the quality of the sketch movements, we 
 We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/speed.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/speed.png" style = "width:300px"/>
 </figure>
 
 
@@ -72,7 +72,7 @@ Based on these profiles, we analysied two motion features:
   2. Sketch motion smoothness - measured by the number of velocity peaks. 
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:300px"/>
 </figure>
 
 <h5> Learning </h5>
