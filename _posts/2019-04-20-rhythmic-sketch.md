@@ -5,7 +5,7 @@ date:   2019-04-20
 excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchronization"
 ---
 
-## Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill
+## Augmented Visuotactile Feedback Support Sensorimotor Synchronization
 
 <h5>Keywords</h5>
 ``Augmented feedback, multisensory stimuli, Sensorimotor synchronization``
@@ -15,11 +15,7 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
 
 - Get people engaged with motor training, particularly the skill of sensorimotor synchronisation.
 - Use an unobtrusive way to display feedback without disturbing surrounding people.
- - Analyse motion quality with a multi-layered computational framework.
-
-<figure>
-<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" style = "width:400px"/>
-</figure>
+- Analyse motion quality with a multi-layered computational framework.
 
 <h5> Study requirements </h5>
 
@@ -28,52 +24,72 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
 3. multisensory feedback
 
 <h5> Practice task </h5>
-Sketch rhythmic patterns by hand or arm following a sample rhythm.
+Sketch rhythmic patterns by hand or arm following a sample rhythm. Experiment setup is shown in the figure below.
+
+<figure>
+<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" style = "width:400px"/>
+</figure>
 
 <h5> Stimuli for the trianing </h5>
 
-- The rhythm timing: 
-Auditory and vibrotactile signal onset
+The rhythm timing: 
+Following figure explains auditory and vibrotactile signal onset
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/AVtiming.png" style = "width:400px"/>
 </figure>
 
 
-- Visual concomitant of the rhythm
-Five-beats rhythm
+Following figure explains visual concomitant of the auditory-vibrotactile rhythm
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/lrlrl.png" style = "width:400px"/>
 </figure>
 
 <h5> Evaluation and results </h5>
-- Usability evaluation
-Performance with multimodal feedback have the correlation all above 0.5, as shown in the figure below, which indicates a good accuracy of sketched rhythm.
 
-<figure>
+<!-- Performance with multi-sensory feedback have the correlation all above 0.5, as shown in the figure below, which indicates a good accuracy of sketched rhythm. -->
+
+<!-- <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:250px"/>
-</figure>
+</figure> -->
 
-Limitation: This evaluation cannot tell the quality of the sketch movements, we need something that can reflect people’s motion features.
+<!-- Limitation: This evaluation cannot tell the quality of the sketch movements, we need something that can reflect people’s motion features. -->
 
+We follow the multi-layered conceptual framewrok proposed by Camurri et al, 2016, to analysis motion qualities. 
 
-- Kinematic analysis of gestures (sketches)
+The crossmodal stimuli conforms the CCs, as shown in this table:
 
-We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
+| Modalities   |      Correspondences     |
+|----------|:-------------:|------:|
+| Visual-auditory CC|  high brightness - high pitch & low brightness - low pitch |
+| Visual-haptic CC |    high brightness - high intensity & low brightness - low intensity   |
+| Auditory-haptic CC | high pitch - high intensity & low pitch - low intensity |
+{: .table .table-striped .table-hover}
+
+Layer 1: We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/speed.png" style = "width:400px"/>
 </figure>
 
 
-Based on these profiles, we analysied two motion features:
-  1. Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
-  2. Sketch motion smoothness - measured by the number of velocity peaks. 
+Based on the first layer of computing, we analysied motion features in layer 2 and 3:
+
+Layer 2: Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
+
+Layer 3: 
+- Sketch motion smoothness - measured by the number of velocity peaks.
+- Rhythm accuracy - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
+
+
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:400px"/>
+<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:250px"/>
 </figure>
+
+(Performance with multi-sensory feedback have the correlation all above 0.5, as shown in the figure above, which indicates a good accuracy of sketched rhythm.)
 
 <h5> Learning </h5>
 
