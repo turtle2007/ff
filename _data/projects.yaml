@@ -1,5 +1,5 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: Research interests
+  url: https://turtle2007.github.io/ff/
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
@@ -18,12 +18,12 @@
 #   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
 #   completed: true
 
-- title: Block Icon Theme
+- title: Publications
   url: https://github.com/TaylanTatli/Block-Icon-Theme
   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
-- title: Start Page
+- title: acedemic and public engagement
   url: http://taylantatli.me/StartPage/
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
