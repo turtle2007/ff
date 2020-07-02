@@ -18,7 +18,7 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
  - Analyse motion quality with a multi-layered computational framework.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "200"/>
+<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "70%"/>
 </figure>
 
 <h5> Study requirements </h5>
@@ -77,13 +77,13 @@ Based on these profiles, we analysied two motion features:
 
 <h5> Learning </h5>
 
-We learned that VA (Visual-auditory) feedback support the best rhythmic motion precision, but worst motion smoothness, and that VH (Visual-haptic) feedback support the best motion smoothness.
+- We learned that VA (Visual-auditory) feedback support the best rhythmic motion precision, but worst motion smoothness, and that VH (Visual-haptic) feedback support the best motion smoothness.
 
-To support Sensorimotor Synchronization skill recovery, providing VA and VH feedback could improve motion precision and movement smoothness. However, these results need to be verified with real patients in the future.
+- To support Sensorimotor Synchronization skill recovery, providing VA and VH feedback could improve motion precision and movement smoothness. However, these results need to be verified with real patients in the future.
 
-Providing vibrotactile feedback is indeed facilitate rhythmic motion performance in an unobtrusive way.
+- Providing vibrotactile feedback is indeed facilitate rhythmic motion performance in an unobtrusive way.
 
-The remaining question is: 
+<h5>The remaining question</h5>
 
 Can augmening motion features (DTW distance or the level of motion smoothness ) as the real-time multimodal feedback further support motor skill recovery?
 
@@ -93,7 +93,7 @@ Can augmening motion features (DTW distance or the level of motion smoothness ) 
 
 ---
 
-Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+<!-- Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
@@ -116,11 +116,11 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
   {% endif %}
   {% if page.next %}
     <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
-</nav><!-- /.pagination -->{% endraw %}
-```
+  {% endif %} -->
+<!-- </nav>/.pagination{% endraw %} -->
+<!-- ``` -->
 
-```ruby
+<!-- ```ruby
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
@@ -161,4 +161,4 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 An example of a Gist embed below.
 
-{% gist e813c2560b0f1ecc9f5d pacman.patch %}
+{% gist e813c2560b0f1ecc9f5d pacman.patch %} -->
