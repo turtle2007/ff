@@ -18,7 +18,7 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
  - Analyse motion quality with a multi-layered computational framework.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "400"/>
+<img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" width = "200"/>
 </figure>
 
 <h5> Study requirements </h5>
@@ -52,7 +52,7 @@ Five-beats rhythm
 Performance with multimodal feedback have the correlation all above 0.5, as shown in the figure below, which indicates a good accuracy of sketched rhythm.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" width = "300"/>
+<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" width = "200"/>
 </figure>
 
 Limitation: This evaluation cannot tell the quality of the sketch movements, we need something that can reflect people’s motion features.
@@ -63,7 +63,7 @@ Limitation: This evaluation cannot tell the quality of the sketch movements, we 
 We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/speed.png" width = "500"/>
+<img src="{{site.baseurl}}/images/touchRhythms/speed.png" width = "200"/>
 </figure>
 
 
@@ -72,7 +72,7 @@ Based on these profiles, we analysied two motion features:
   2. Sketch motion smoothness - measured by the number of velocity peaks. 
 
 <figure>
-<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" width = "400"/>
+<img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" width = "200"/>
 </figure>
 
 <h5> Learning </h5>
@@ -83,82 +83,9 @@ To support Sensorimotor Synchronization skill recovery, providing VA and VH feed
 
 Providing vibrotactile feedback is indeed facilitate rhythmic motion performance in an unobtrusive way.
 
-The remaining question is: 
+<h5>The remaining question</h5>
 
 Can augmening motion features (DTW distance or the level of motion smoothness ) as the real-time multimodal feedback further support motor skill recovery?
 
 ``(For more details of this study, please wait. The paper was submitted to the journal of human-computer studies, and is currently under review.)``
 
-
-
----
-
-Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
-
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
-
-### GFM Code Blocks
-
-GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) are supported. To modify styling and highlight colors edit `/_sass/syntax.scss`.
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-```html
-{% raw %}<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
-</nav><!-- /.pagination -->{% endraw %}
-```
-
-```ruby
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
-```
-
-### Code Blocks in Lists
-
-Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
-
-1. Do step 1.
-2. Now do this:
-   
-   ```ruby
-   def print_hi(name)
-     puts "Hi, #{name}"
-   end
-   print_hi('Tom')
-   #=> prints 'Hi, Tom' to STDOUT.
-   ```
-        
-3. Now you can do this.
-
-### GitHub Gist Embed
-
-An example of a Gist embed below.
-
-{% gist e813c2560b0f1ecc9f5d pacman.patch %}

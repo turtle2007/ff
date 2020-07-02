@@ -93,7 +93,7 @@ Can augmening motion features (DTW distance or the level of motion smoothness ) 
 
 ---
 
-<!-- Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
@@ -116,11 +116,11 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
   {% endif %}
   {% if page.next %}
     <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %} -->
-<!-- </nav>/.pagination{% endraw %} -->
-<!-- ``` -->
+  {% endif %}
+</nav>/.pagination{% endraw %}
+```
 
-<!-- ```ruby
+```ruby
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
@@ -144,7 +144,7 @@ end
 
 Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
 
-1. Do step 1.
+1. Do step 1.z
 2. Now do this:
    
    ```ruby
@@ -161,4 +161,4 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 An example of a Gist embed below.
 
-{% gist e813c2560b0f1ecc9f5d pacman.patch %} -->
+{% gist e813c2560b0f1ecc9f5d pacman.patch %}
