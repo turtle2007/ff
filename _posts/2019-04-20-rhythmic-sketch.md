@@ -89,7 +89,7 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
   {{ site.url }}/images/touchRhythms/kinematics.png
   {{ site.url }}/images/touchRhythms/correlation.png
 {% endcapture %}
-{% include gallery images=images caption="Motion precision, smoothness and accuracy" cols=3 %}
+{% include gallery images=images caption="Motion precision, smoothness and accuracy" cols= 5 %}
 
 <!-- <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:350px"/>
