@@ -68,7 +68,7 @@ Multi-layered conceptual framewrok:
 | Layer 1 |  Physical signals, virtual sensors |  Time-series data  |
 {: .table .table-striped .table-hover}
 
-Layer 1: We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
+- Layer 1: We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/speed.png" style = "width:400px"/>
@@ -77,22 +77,23 @@ Layer 1: We first plot out speed profiles of people's gestural movement during s
 
 Based on the first layer of computing, we analysied motion features in layer 2 and 3:
 
-Layer 2: Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
+- Layer 2: Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
 
-Layer 3: 
-- Sketch motion smoothness - measured by the number of velocity peaks.
-- Rhythm accuracy - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
+- Layer 3: 
+Sketch motion smoothness - measured by the number of velocity peaks.
+
+Rhythm accuracy - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
 
 
 
 <figure>
 <img src="{{site.baseurl}}/images/touchRhythms/kinematics.png" style = "width:400px"/>
-<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:250px"/>
+<img src="{{site.baseurl}}/images/touchRhythms/correlation.png" style = "width:200px"/>
 </figure>
 
 (Performance with multi-sensory feedback have the correlation all above 0.5, as shown in the figure above, which indicates a good accuracy of sketched rhythm.)
 
-<h5> Learning </h5>
+<h5> Discoveries </h5>
 
 We learned that VA (Visual-auditory) feedback support the best rhythmic motion precision, but worst motion smoothness, and that VH (Visual-haptic) feedback support the best motion smoothness.
 
