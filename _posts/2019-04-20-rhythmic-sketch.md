@@ -58,14 +58,14 @@ Following figure explains visual concomitant of the auditory-vibrotactile rhythm
 
 We follow the multi-layered conceptual framewrok proposed by Camurri et al, 2016, to analysis motion qualities. 
 
-The crossmodal stimuli conforms the CCs, as shown in this table:
+Multi-layered conceptual framewrok:
 
-| LAYERS   |      PARAMETERS     | EXAMPLES
+| LAYERS   |      PARAMETERS     | EXAMPLES  |
 |----------|:-------------:|------:|
 | Layer 4 |  Qualities communication |  Emotions, social signals  |
-| Layer 3 |  Mid-level features  |
-| Layer 2 |  Low-level features |
-| Layer 1 |  Physical signals, virtual sensors |
+| Layer 3 |  Mid-level features  |  Amodel features like smoothness  |
+| Layer 2 |  Low-level features |  Speed, Accelerations  |
+| Layer 1 |  Physical signals, virtual sensors |  Time-series data  |
 {: .table .table-striped .table-hover}
 
 Layer 1: We first plot out speed profiles of people's gestural movement during sketches as shown in the below figure.
