@@ -7,23 +7,23 @@ permalink: /Acedemic&Public/
 
 ## Publications
 <h3>Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
-(Accepted by Journal on Multimodal User Interfaces)
-Feng Feng, Puhong Li, Tony Stockman
-doi>10.1007/s12193-020-00326-y
+<p>Accepted by Journal on Multimodal User Interfaces</p>
+<p>Feng Feng, Puhong Li, Tony Stockman</p>
+<p>doi>10.1007/s12193-020-00326-y</p>
 
-<h4>Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h4>
-(Under review: International journal of human-computer studies)
+<h3>Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
+(Under review: Applied Ergonomics)
 
-<h5>Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h5>
-(Under review: International journal on multimodal user interfaces)
+<h3>Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h3>
+(Under review: International journal of human computer studies))
 
-<h5>Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h5>
+<h3>Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h3>
 doi>10.1145/3290607.3312812
 
-<h5>Feng, F., & Stockman, T. (2017, November). An investigation of dynamic crossmodal instantiation in TUIs. In Proceedings of the 19th ACM International Conference on Multimodal Interaction (pp. 82-90). ACM.</h5>
+<h3>Feng, F., & Stockman, T. (2017, November). An investigation of dynamic crossmodal instantiation in TUIs. In Proceedings of the 19th ACM International Conference on Multimodal Interaction (pp. 82-90). ACM.</h3>
 doi>10.1145/3136755.3136782 
 
-<h5>Feng, F., Stockman, T., Bryan-Kinns, N., & AI-Thani, D. (2015, September). An investigation into the comprehension of map information presented in audio. In Proceedings of the XVI International Conference on Human Computer Interaction (p. 29). ACM.</h5>
+<h3>Feng, F., Stockman, T., Bryan-Kinns, N., & AI-Thani, D. (2015, September). An investigation into the comprehension of map information presented in audio. In Proceedings of the XVI International Conference on Human Computer Interaction (p. 29). ACM.</h3>
 doi>10.1145/2829875.2829896
 
 ## Conference hosting
@@ -51,9 +51,10 @@ Co-Chair (Paper chair) the International Conference on Auditory Display ([ICAD] 
 
 ## Research outreach
  - First Lego League (FLL)
-Co-organiser, robot design judge and referee for the London East, First Lego League (FLL) Robotics design competition. We hosted this event for the purpose of encouraging and engaging young talents to get more involved with STEM subjects. (The event website: https://firstlegoleague.theiet.org. The event photos: https://www.flickr.com/photos/eecs_qmul/albums/72157703849093212)
+Co-organiser, robot design judge and referee for the London East, First Lego League (FLL) Robotics design competition. We hosted this event for the purpose of encouraging and engaging young talents to get more involved with STEM subjects. [Click here for more info.](https://firstlegoleague.theiet.org) 
+[Click here for the event pics.](https://www.flickr.com/photos/eecs_qmul/albums/72157703849093212)
 
  - TeenTech Event
-Representative of QMUL for the TeenTech Event: This event aims to present variety of science, technology and engineering in a friendly and warm approach to teenagers. (The event website: https://www.teentech.com/teentech-events/)
+Representative of QMUL for the TeenTech Event: This event aims to present variety of science, technology and engineering in a friendly and warm approach to teenagers. [Click here for more info.](https://www.teentech.com/teentech-events/)
 
 <!-- <a href="#" class="btn btn-default">Back to top</a> -->

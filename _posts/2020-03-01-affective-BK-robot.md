@@ -32,7 +32,7 @@ Of all the possible information channels, I'm particularly interested in the mod
 <img src="{{site.baseurl}}/images/bk_robot/in_nature.png" width = "400"/>
 </figure>
 
-(The hedgehocs' pic are borrowed from http://blog.critterconnection.cc/spine-language/)
+(The hedgehocs' pic are adoppted from [here](http://blog.critterconnection.cc/spine-language/)
 
 Nowadays we have algorithms, intelligent agents or robots that are able to touch human's emotions by reading human's facial expressions, physiological signals, body language etc. However, there are limited communication channels for the robots to convey their richness underlying states. This problem has two folds. On the one hand, humans become increasingly transparent to the robots, while robots are increasingly opaque to humans (especially to non-expert users), which leads to information inequality. On the other hand, inadequate expressive channels limit interaction space between human and robots, and diminish good user experience (UX) in human-robot/computer interaction (as shown in figure below).
 
