@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title:  "Research interests"
+title:  "Research Vision"
 description: "Research vision and interests"
 permalink: /ResearchVision/
 ---
