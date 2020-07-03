@@ -5,7 +5,7 @@ description: "Research vision and interests"
 permalink: /ResearchVision/
 ---
 
-**Research Interest**
+## Research Interests**
 
 CHI research, embodied memory and cognition, tangible interaction, pervasive computing, fine and gross gestures, motor skill training
 
@@ -14,7 +14,7 @@ CHI research, embodied memory and cognition, tangible interaction, pervasive com
 CHI resarch, interaction prototype developing, experimental psychology, cognitive science, computational modelling, ergonomics and kinimatics
 
 
-**My research vision**
+## My research vision**
 
 Merging the fields: cognitive psychology, CHI research (human and social factors), product design (form follows functions)
 
