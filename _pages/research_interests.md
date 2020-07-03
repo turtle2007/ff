@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: aboutme
 title:  "Research interests"
 description: "Research vision and interests"
 permalink: /ResearchVision/
