@@ -6,12 +6,12 @@ permalink: /Acedemic&Public/
 ---
 
 ## Publications
-<h5>Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h5>
+<h3>Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 (Accepted by Journal on Multimodal User Interfaces)
 Feng Feng, Puhong Li, Tony Stockman
 doi>10.1007/s12193-020-00326-y
 
-<h5>Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h5>
+<h4>Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h4>
 (Under review: International journal of human-computer studies)
 
 <h5>Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h5>
@@ -31,21 +31,13 @@ Co-Chair (Paper chair) the International Conference on Auditory Display ([ICAD] 
 
 ## Paper reviewed
 
-ACM [DIS] 2020
-
-ACM [CHI] 2020
-
-ACM International Joint Conference on Pervasive and Ubiquitous Computing ([Ubicomp] 2019)
-
-ACM International Symposium on Wearable Computers ([ISWC] 2019).
-
-IEEE World Haptics Conference ([WHC] 2019)
-
-International Conference on Auditory Display ([ICAD] 2019)
-
-[Eurohaptics] 2018
-
-<a href="#" class="btn btn-default">Back to top</a>
+- ACM [DIS] 2020
+- ACM [CHI] 2020
+- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([Ubicomp] 2019)
+- ACM International Symposium on Wearable Computers ([ISWC] 2019).
+- IEEE World Haptics Conference ([WHC] 2019)
+- International Conference on Auditory Display ([ICAD] 2019)
+- [Eurohaptics] 2018
 
 [CHI]:https://dis.acm.org/2020/
 [DIS]:https://chi2020.acm.org
@@ -63,3 +55,5 @@ Co-organiser, robot design judge and referee for the London East, First Lego Lea
 
  - TeenTech Event
 Representative of QMUL for the TeenTech Event: This event aims to present variety of science, technology and engineering in a friendly and warm approach to teenagers. (The event website: https://www.teentech.com/teentech-events/)
+
+<!-- <a href="#" class="btn btn-default">Back to top</a> -->
