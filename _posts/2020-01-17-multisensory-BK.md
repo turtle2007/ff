@@ -13,14 +13,6 @@ excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience"
 - vangelis -->
 ---
 
-<!-- <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
-
-<center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
-     
- This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you. -->
-
-<!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
-
  
 ## The "BK" and the multisensory experience
 BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:

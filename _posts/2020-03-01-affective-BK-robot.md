@@ -4,20 +4,8 @@ title:  "Affective BK Robot"
 date:   2020-03-01
 excerpt: "Keywords: Affective robot, Shape-change skin, Touch"
 
-<!-- tag:
-- jekyll 
-- halve
-- blog
-- vangeltzo
-- theme
-- vangelis -->
 ---
 
-<!-- <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
-
-<center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
-     
- This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you. -->
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
@@ -29,7 +17,7 @@ In nature, information is conveyed through not only language but a variety of ch
 Of all the possible information channels, I'm particularly interested in the modality of shape-change. Look at following pics. The shapes convey very clear messages that can be perceived by human and raise certain affective states.
 
 <figure>
-<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" width = "400"/>
+<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" style = "width:350px"/>
 </figure>
 
 (The hedgehocs' pic are adoppted from [here](http://blog.critterconnection.cc/spine-language/)
@@ -43,7 +31,7 @@ Nowadays we have algorithms, intelligent agents or robots that are able to touch
 {% include gallery images=images caption="Human-robot/computer information channels" cols=3 %} -->
 
 <figure>
-<img src="{{site.baseurl}}/images/bk_robot/HRI_info_trans.png" width = "350"/>
+<img src="{{site.baseurl}}/images/bk_robot/HRI_info_trans.png" style = "width:350px"/>
 </figure>
 
 ### The question
