@@ -17,7 +17,7 @@ In nature, information is conveyed through not only language but a variety of ch
 Of all the possible information channels, I'm particularly interested in the modality of shape-change. Look at following pics. The shapes convey very clear messages that can be perceived by human and raise certain affective states.
 
 <figure>
-<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" style = "width:350px"/>
+<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" style = "width:400px"/>
 </figure>
 
 (The hedgehocs' pic are adoppted from [here](http://blog.critterconnection.cc/spine-language/)
@@ -31,7 +31,7 @@ Nowadays we have algorithms, intelligent agents or robots that are able to touch
 {% include gallery images=images caption="Human-robot/computer information channels" cols=3 %} -->
 
 <figure>
-<img src="{{site.baseurl}}/images/bk_robot/HRI_info_trans.png" style = "width:350px"/>
+<img src="{{site.baseurl}}/images/bk_robot/HRI_info_trans.png" style = "width:400px"/>
 </figure>
 
 ### The question
