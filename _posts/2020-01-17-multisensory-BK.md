@@ -21,10 +21,10 @@ BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape 
 <img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
 </figure>
 
-Make a guess about which label belongs to which shape (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
+<h4>Make a guess about which label belongs to which shape </h4> (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
 
 ## Tangible BK 
-Above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
+The above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation has also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
 
@@ -33,23 +33,29 @@ This perceptual correlation has also been found between 3D-shapes and the phonem
 </figure>
 
 ## How this can be utilised in design?
-In a CHI mentality, the next question we are thinking about is how can we leverage such a perceptual regularity to benefit our life?
+<!-- In a CHI mentality, the next question we are thinking about is  -->
+How can we leverage such a perceptual regularity to benefit our life?
 
-An interesting application is to build a perceptual common ground, for instance, the [tangible pain assessment tool](https://designawards.core77.com/health-wellness/82835/Tangible-Pain-Assessment-Tools).
+An interesting application is to build a perceptual common ground, for instance, the [tangible pain assessment tool](https://designawards.core77.com/health-wellness/82835/Tangible-Pain-Assessment-Tools). This project uses tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
 
 <figure>
 <img src="{{site.baseurl}}/images/bk/bkexample.jpeg" width = "400"/>
 </figure>
-(This figure is adopted from the core77 website.)
+(This figure is adopted from the core77.)
 
-This project uses tangible "Bouba-kiki" shapes to present "a range of expressive possibilities, allowing young children to communicate qualitative information that they typically are unable to communicate due to limitations in their linguistic capacity."
 
 ### Shape-change BK robot
-Our ``research concerns`` how people understand affordance that shape-change device, interfaces and robots provide, both physically and psychologically.
+<!-- Our ``research concerns`` how people understand the affordances that shape-change device, interfaces and robots provide, both physically and psychologically.
 
 At the current stage, we ``aim`` to empirically investigate emotional states that people can perceive based on the transition between tangible "Bouba" and "Kiki".
 
-We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki".
+We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the "Bouba" and "Kiki". -->
+
+In our research we aim to empirically investigate emotional states that people can perceive based on the transition between tangible “Bouba” and “Kiki”.
+
+Our research seeks to discover how people understand the affordances that shape-change device, interfaces and robots provide, both physically and psychologically.
+
+We built a pneumatically actuated robot, the BK robot, and control the size, speed, and frequency of the change between the “Bouba” and “Kiki”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WCvqHNx1njk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

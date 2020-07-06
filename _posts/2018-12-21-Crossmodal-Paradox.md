@@ -10,7 +10,10 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
   - test -->
 ---
 
-## Research background
+<h5>Keywords</h5>
+Augmented feedback, multisensory stimuli, Sensorimotor synchronization
+
+## Research Background
 
 In the field of human-automation interaction, the question of how to improve operational efficiency and safety, especially in the time-sensitive and/or safety-critical settings, has always been in the central discussion.
 
@@ -34,7 +37,7 @@ and from Zhu Da's spiritual reflection:
 	<figcaption>Zhu Da, Hua Niao Series, 1626-1705, Calligraphy and ink on paper.</figcaption>
 </figure>
 
-## Research questions and aim
+## Research Questions and Aim
 
 The phenomenom of CCs has been extensively investigated in the field of cognitive study. With a well-controlled experimental paradigm (conventionally the speeded classificiation paradigm), We discovered more and more associations not only between visual and auditory modality, but also between visual and haptic, as well as autitory and haptic modality. 
 
@@ -53,7 +56,7 @@ In this project, we are `aiming` to tackle following two questions:
 * RQ2: How do people integrate crossmodal information in which two CCs are mutually exclusive? Furthermore, how, if at all,  does the integration of such information change in the presence or absence of cognitive priming? 
 
  
-## Method, results and implications for design
+## Method, Results and Implications for Design
 
 If you are interested in knowing the discoveries and contributions of this project, you can read the published paper from [here](https://scholar.google.co.uk/citations?user=IHMO_z0AAAAJ&hl=en&oi=ao). 
 

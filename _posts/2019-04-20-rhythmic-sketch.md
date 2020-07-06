@@ -9,10 +9,10 @@ excerpt: "Keywords: Augmented feedback, Multimodal stimuli, Sensorimotor synchro
 ## Augmented Visuotactile Feedback Support Sensorimotor Synchronization
 
 <h5>Keywords</h5>
-``Augmented feedback, multisensory stimuli, Sensorimotor synchronization``
+Augmented feedback, multisensory stimuli, Sensorimotor synchronization
 
 
-<h5>Purposes</h5>
+<h5>Research purpose</h5>
 
 - Get people engaged with motor training, particularly the skill of sensorimotor synchronisation.
 - Use an unobtrusive way to display feedback without disturbing surrounding people.
