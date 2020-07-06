@@ -15,7 +15,7 @@
 
 - title: Teaching
   url: http://fengxiwu.com/Teaching
-  image: https://raw.githubusercontent.com/turtle2007/ff/blob/master/images/aboutme/teaching.png
+  image: https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/teaching.png
   completed: true
 
 - title: Contact
@@ -23,4 +23,3 @@
   # image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: true
 
-  
