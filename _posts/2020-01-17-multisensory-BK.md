@@ -3,7 +3,7 @@ layout: post
 title:  "Multisensory BK Forms"
 date:   2020-01-17
 excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience"
-
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg"
 <!-- tag:
 - jekyll 
 - halve

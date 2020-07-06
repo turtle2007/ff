@@ -3,7 +3,7 @@ layout: post
 title: "Rhythmic Sketch"
 date:   2019-04-20
 excerpt: "Keywords: Augmented feedback, Wearable, Multisensory stimuli, Sensorimotor synchronization"
-
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/rhythm.jpg"
 ---
 
 ## Augmented Visuotactile Feedback Support Sensorimotor Synchronization
