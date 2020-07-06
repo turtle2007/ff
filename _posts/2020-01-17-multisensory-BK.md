@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multisensory BK forms"
+title:  "Multisensory BK Forms"
 date:   2020-01-17
 excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience"
 
