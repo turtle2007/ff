@@ -3,8 +3,12 @@
   # image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: true
 
-- title: Academic and Public Engagement
-  url: http://fengxiwu.com/Acedemic&Public
+- title: Academic activities
+  url: http://fengxiwu.com/Acedemic
+  # image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+
+  - title: Public Engagement
+  url: http://fengxiwu.com/Public
   # image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: true
 

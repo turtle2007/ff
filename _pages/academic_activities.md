@@ -2,7 +2,7 @@
 layout: aboutme
 title:  "Academic and Public Engagement"
 description: "Academic and Public Engagement"
-permalink: /Acedemic&Public/
+permalink: /Acedemic/
 ---
 
 ## Publications
