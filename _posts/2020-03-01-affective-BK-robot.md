@@ -2,12 +2,13 @@
 layout: post
 title:  "Affective BK Robot"
 date:   2020-03-01
-excerpt: "Keywords: Affective robot, Shape-change skin, Touch"
-
+excerpt: "Keywords: Affective robot, Shape-change, Wearable skin, Touch"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
 ---
 
 
-<!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
+<h5>Keywords: Affective robot, Shape-change, Wearable skin, Touch</h5>
+
 
 ## Exploring people' emotional states when they interact with a robot who with a shape-changing skin
  

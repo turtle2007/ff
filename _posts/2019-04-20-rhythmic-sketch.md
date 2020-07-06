@@ -2,14 +2,14 @@
 layout: post
 title: "Rhythmic Sketch"
 date:   2019-04-20
-excerpt: "Keywords: Augmented feedback, multisensory stimuli, Sensorimotor synchronization"
+excerpt: "Keywords: Augmented feedback, Wearable, Multisensory stimuli, Sensorimotor synchronization"
 
 ---
 
 ## Augmented Visuotactile Feedback Support Sensorimotor Synchronization
 
 <h5>Keywords</h5>
-Augmented feedback, multisensory stimuli, Sensorimotor synchronization
+Augmented feedback, Wearable, Multisensory stimuli, Sensorimotor synchronization
 
 
 <h5>Research purpose</h5>
@@ -78,11 +78,9 @@ Multi-layered conceptual framewrok:
 
 Based on the first layer of computing, we analysied motion features in layer 2 and 3:
 
-- Layer 2: Rhythmic motion precision - measured by dynamic time warping (DTW) distances.
+- Layer 2: ``Rhythmic motion precision`` - measured by dynamic time warping (DTW) distances.
 
-- Layer 3: 
-
-``Sketch motion smoothness`` - measured by the number of velocity peaks.
+- Layer 3: ``Sketch motion smoothness`` - measured by the number of velocity peaks.
 
 ``Rhythm accuracy`` - measured by calculating the correlations between the sketched rhythm and the sample rhythm. 
 

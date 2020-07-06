@@ -49,7 +49,7 @@ However, CC implementations with an effort from Human-computer interaction (HCI)
 
 * Complex sensorial noise usually occures intermettently over the course of interactive tasks. Under such a circumstance, mutrally exclusive CCs may happen. To our knowledge, we don't know how people react to such a situation, not to mention a set of design guidlines to overcome or circumvent perceptual pitfalls.
 
-In this project, we are `aiming` to tackle following two questions:
+In this project, we are `aiming` to tackle following two `questions`:
 
 * RQ1: Whether people's crossmodal perception can be enhanced by cognitive priming, and if it can be, to what extent it modulates small and fast sensory-motor responses in an interactive task?
 
