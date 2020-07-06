@@ -2,7 +2,7 @@
 layout: post
 title: "Crossmodal Paradox"
 date:   2018-12-21
-excerpt: "Paradoxical perception between sensory modalities."
+excerpt: "Crossmodal perception and cognitive priming"
 image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
 <!-- tags: 
   - sample post
@@ -11,7 +11,7 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
 ---
 
 <h5>Keywords</h5>
-Augmented feedback, multisensory stimuli, Sensorimotor synchronization
+Crossmodal correspondences, Crossmodal Congruency, Perception, Sensorimotor response, Cognitive priming
 
 ## Research Background
 
