@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title:  "Academic and Public Engagement"
+title:  "Academic Activities"
 description: "Academic and Public Engagement"
 permalink: /Acedemic/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"

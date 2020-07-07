@@ -3,6 +3,7 @@ layout: aboutme
 title:  "Research Vision"
 description: "Research vision and interests"
 permalink: /ResearchVision/
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/taiji.jpg"
 ---
 
 ## Research Interests
