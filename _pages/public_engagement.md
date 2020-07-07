@@ -3,7 +3,7 @@ layout: aboutme
 title:  "Academic and Public Engagement"
 description: "Academic and Public Engagement"
 permalink: /Public/
-
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/legoleague.jpg"
 ---
 
 ## Book translation
