@@ -3,6 +3,7 @@ layout: aboutme
 title:  "Teaching"
 description: "Teaching experience"
 permalink: /Teaching/
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"
 ---
 
 Following are selected list of undergraduate/postgraduate modules that I've taught as a teaching assistant.
