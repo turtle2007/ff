@@ -26,7 +26,8 @@ I'm interested Embodied cognition and interaction, working to bridging the digit
 ## Design
 Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 
 
-As a designer, I designed the branding and visual identity system (VI system) for the [China Academy Museum](http://ylsy.hnu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=1275).
+As a designer, I designed the branding and visual identity system (VI system) for the China Academy Museum.
+<!-- (http://ylsy.hnu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=1275). -->
 
 In previous intership/design projects, I've worked with [Oulin](http://www.oulin.net/product2.html) and conducted ethnographic study for the design of IoT smart kitchen in 2013. 
 
