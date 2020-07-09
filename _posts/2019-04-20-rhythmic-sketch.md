@@ -11,12 +11,16 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/rhythm.jpg
 <h5>Keywords</h5>
 Augmented feedback, Wearable, Multisensory stimuli, Sensorimotor synchronization
 
+This page describes a research which is currently under review for publication in a journal - a preliminary study can be found [here](https://dl.acm.org/doi/abs/10.1145/3290607.3312812) and a brief description is below.
+
 
 <h5>Research purpose</h5>
 
-- Get people engaged with motor training, particularly the skill of sensorimotor synchronisation.
+In this study, we looked at the effect of augmented visuotactile feedback on people's motor performance. We were interested in ways of getting people more engaged with motor training, particularly the skill of sensorimotor synchronisation. We investigated the unobtrusive way to display feedback without disturbing surrounding people, and analyse motion quality with a multi-layered computational framework. This project serves as a benchmark study for future investigations with minor stroke patients. We believe the multisensory feedback, with proper design, can benefit not only healthy people to gain motor skills but stroke patients to regain lost motor functions.
+
+<!-- - Get people engaged with motor training, particularly the skill of sensorimotor synchronisation.
 - Use an unobtrusive way to display feedback without disturbing surrounding people.
-- Analyse motion quality with a multi-layered computational framework.
+- Analyse motion quality with a multi-layered computational framework. -->
 
 <h5> Study requirements </h5>
 
@@ -31,7 +35,7 @@ Sketch rhythmic patterns by hand or arm following a sample rhythm. Experiment se
 <img src="{{site.baseurl}}/images/touchRhythms/cut_wall.png" style = "width:400px"/>
 </figure>
 
-<h5> Stimuli for the trianing </h5>
+<h5> Stimuli for the training </h5>
 
 The rhythm timing: 
 Following figure explains auditory and vibrotactile signal onset
@@ -108,6 +112,4 @@ Based on the first layer of computing, we analysied motion features in layer 2 a
 <h5>The remaining question</h5>
 
 Can augmening motion features (DTW distance or the level of motion smoothness ) as the real-time multimodal feedback further support motor skill recovery?
-
-``(For full details of this study, please wait for the paper submitted to the journal of human-computer studies, and is currently under review.)`` While a preliminary study can be found [here](https://dl.acm.org/doi/abs/10.1145/3290607.3312812)
 

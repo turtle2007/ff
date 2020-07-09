@@ -21,7 +21,7 @@ BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape 
 <img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
 </figure>
 
-<h4>Make a guess about which label belongs to which shape </h4> (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population!
+<h4>Make a guess about which label belongs to which shape </h4> (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population! We believe we can use these shapes to inform design of tangible digital devices.
 
 ## Tangible BK 
 The above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
