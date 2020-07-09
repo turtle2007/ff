@@ -1,7 +1,7 @@
 ---
 layout: aboutme
 title:  "Publications and Academic Activities"
-description: "Academic and Public Engagement"
+description: "Publications and Academic Activities"
 permalink: /Acedemic/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"
 ---
