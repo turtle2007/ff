@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 <h3>Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 <p>Accepted by Journal on Multimodal User Interfaces</p>
 <p>Feng Feng, Puhong Li, Tony Stockman</p>
-<p>doi: 0.1007/s12193-020-00326-y</p> [preprint PDF]{{site.baseurl}}/assets/files/JMUI_accepted.pdf
+<p>doi: 0.1007/s12193-020-00326-y</p> [preprint PDF]({{site.baseurl}}/assets/files/JMUI_accepted.pdf)
 
 <h3>Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
 (Under review: Applied Ergonomics)
