@@ -19,7 +19,7 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 (Under review: International journal of human computer studies))
 
 <h3>Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h3>
-doi>10.1145/3290607.3312812
+[doi>10.1145/3290607.3312812](https://dl.acm.org/doi/abs/10.1145/3290607.3312812?casa_token=GYRNBPAGaQwAAAAA:MPyvmtpy8VYLszkbwQO0yyZFnXA_tJOIfkEISYs_3ryK2g5A1V_X8I_JpJo9MCPr2H7LHNPgjuhiog)
 
 <h3>Feng, F., & Stockman, T. (2017, November). An investigation of dynamic crossmodal instantiation in TUIs. In Proceedings of the 19th ACM International Conference on Multimodal Interaction (pp. 82-90). ACM.</h3>
 doi>10.1145/3136755.3136782 
