@@ -13,6 +13,8 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
 <h5>Keywords</h5>
 Crossmodal correspondences, Crossmodal Congruency, Perception, Sensorimotor response, Cognitive priming
 
+This page discusses my research relating to Crossmodal Correspondences: perceptual associations between sensory modalities. I am interested in the way we can exploit these correspondences to support user experience, efficiency and safety. Can crossmodal perception be enhanced by cognitive priming? How do crossmodal contradictions affect the integration of information?. You can read the preprinting paper [here]({{site.baseurl}}/assets/files/JMUI_accepted.pdf).
+
 ## Research Background
 
 In the field of human-automation interaction, the question of how to improve operational efficiency and safety, especially in the time-sensitive and/or safety-critical settings, has always been in the central discussion.
@@ -58,7 +60,7 @@ In this project, we are `aiming` to tackle following two `questions`:
  
 ## Method, Results and Implications for Design
 
-If you are interested in knowing the discoveries and contributions of this project, you can read the published paper from [here](https://scholar.google.co.uk/citations?user=IHMO_z0AAAAJ&hl=en&oi=ao). 
+If you are interested in knowing the discoveries and contributions of this project, you can read the published paper [here (preprinting)]({{site.baseurl}}/assets/files/JMUI_accepted.pdf). 
 
 Title: Exploring crossmodal perceptual enhancement and integration in a sequence reproducing task with cognitive priming
 

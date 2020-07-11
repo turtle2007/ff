@@ -6,6 +6,15 @@ permalink: /ResearchVision/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/taiji.jpg"
 ---
 
+## My research vision
+
+I seek to merge the fields of cognitive psychology, CHI research (human and social factors), product design (form follows functions)
+
+I have a background in design engineering, I'm interested in design optimization, engineering the design solutions.
+
+I'm interested Embodied cognition and interaction, working to bridging the digital and physical realities.
+
+
 ## Research Interests
 
 CHI research, embodied memory and cognition, tangible interaction, pervasive computing, fine and gross gestures, motor skill training
@@ -14,14 +23,6 @@ CHI research, embodied memory and cognition, tangible interaction, pervasive com
 
 CHI resarch, interaction prototype development, experimental psychology, cognitive science, computational modelling, ergonomics and kinematics
 
-
-## My research vision
-
-I seek to merge the fields of cognitive psychology, CHI research (human and social factors), product design (form follows functions)
-
-I have a background in design engineering, I'm interested in design optimization, engineering the design solutions.
-
-I'm interested Embodied cognition and interaction, working to bridging the digital and physical realities.
 
 ## Design
 Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 

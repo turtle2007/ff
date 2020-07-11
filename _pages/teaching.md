@@ -6,7 +6,7 @@ permalink: /Teaching/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"
 ---
 
-Following are selected list of undergraduate/postgraduate modules that I've taught as a teaching assistant.
+<h3>Following are selected list of undergraduate/postgraduate modules that I've taught as a teaching assistant.</h3>
 
 ## ECS 612U Interaction design - 2017/18,  2018/19
 Traditionally, interactive systems design has focused on enhancing people's efficiency or productivity. For example, to increase the speed with which tasks can be completed or to minimise the number of errors people make. Economic and social changes have led to a situation in which the primary use of many technologies is for fun; ie. in which there is no quantifiable output and no clear goal other than enjoyment. Computer games, mobile music players and online communities are all examples where the quality of the experience is the primary aim of the interaction. This module explores the challenges these new technologies, and the industries they have created, present for the design and evaluation of interactive systems. It moves away from a human computer interaction model, which is too constrained for real world problems and provides you with an opportunity to engage with theories relating to cultural dynamics, social activity, and live performance. It explores the nature of engagement with interactive systems and between people when mediated by interactive systems.
