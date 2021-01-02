@@ -30,14 +30,15 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 [doi: 10.1145/2829875.2829896](https://dl.acm.org/doi/abs/10.1145/2829875.2829896?casa_token=Eq2v0eG-AdMAAAAA:0Gnc4MFT5W2l1VFQIxb-5wemeC-6oPBwHPpnRQwu3o0bq7BnOsPrhZFjfcTIc0Oud7lD5h2oRTyBYQ)
 
 ## Conference hosting
-ICMI workshop on digital fabrication for inclusive technology ([ICMI] 2020)
+<!-- ICMI workshop on digital fabrication for inclusive technology ([ICMI] 2020) -->
+Workshop on Complexity, Dynamics and Enaction in Human Computer Interaction ([CHI21] 2021)
 
 Co-Chair (Paper chair) the International Conference on Auditory Display ([ICAD] 2019)
 
 ## Paper reviewed
 
 - ACM [DIS] 2020
-- ACM [CHI] 2020
+- ACM [CHI20] 2020
 - ACM International Joint Conference on Pervasive and Ubiquitous Computing ([Ubicomp] 2019)
 - ACM International Symposium on Wearable Computers ([ISWC] 2019).
 - IEEE World Haptics Conference ([WHC] 2019)
@@ -45,8 +46,9 @@ Co-Chair (Paper chair) the International Conference on Auditory Display ([ICAD] 
 - [Eurohaptics] 2018
 
 [ICMI]: http://icmi.acm.org/2020/index.php?id=workshops#workshop7
-[CHI]:https://dis.acm.org/2020/
-[DIS]:https://chi2020.acm.org
+[CHI20]: https://chi2020.acm.org
+[CHI21]: https://chi2021.acm.org
+[DIS]: https://dis.acm.org/2020/
 [Ubicomp]: http://ubicomp.org/ubicomp2019/
 [ISWC]: http://iswc.net/iswc19/
 [WHC]: http://www.worldhaptics2019.org
