@@ -8,17 +8,25 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 
 ## Publications
 <h3> [J1] Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
-<p>Accepted by Journal on Multimodal User Interfaces doi: 0.1007/s12193-020-00326-y</p>
-<p>Feng Feng, Puhong Li, Tony Stockman</p>
-[preprint PDF]({{site.baseurl}}/assets/files/JMUI_accepted.pdf)
+<p>Feng, F., Li, P., & Stockman, T. (2021). Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming. Journal on Multimodal User Interfaces, 15(1), 45-59. </p>
+[doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y)
 
-<h3> [J2] Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
-(Under review: Applied Ergonomics)
+<!-- <h3> [J2] Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
+(Under review: Applied Ergonomics) -->
 
-<h3> [J3] Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h3>
-(Under review: International journal of human computer studies))
+<!-- <h3> [J3] Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h3>
+(Pipeline: International journal of human computer studies)) -->
 
-<h3> [C1] Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla (2021, May). Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems (Accepted).</h3>
+<h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
+<p>Feng, F., Bennett, D., Fan, Z., \& Metatla, O. Under review for CHI 2022</p>
+
+<h3> [C1] Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla (2021, May). Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
+[doi:10.1145/3411764.3445373](https://doi.org/10.1145/3411764.3445373)
+
+<h3>Emergent Interaction: Complexity, Dynamics, and Enaction in HCI</h3>
+<p>Dan Bennett, Alan Dix, Parisa Eslambolchilar, Feng Feng, Tom Froese, Vassilis Kostakos, Sebastien Lerique, Niels van Berkel</p>
+[doi:10.1145/3411763.3441321](https://doi.org/10.1145/3411763.3441321)
+
 
 <h3> [C2] Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h3>
 [doi: 10.1145/3290607.3312812](https://dl.acm.org/doi/abs/10.1145/3290607.3312812?casa_token=GYRNBPAGaQwAAAAA:MPyvmtpy8VYLszkbwQO0yyZFnXA_tJOIfkEISYs_3ryK2g5A1V_X8I_JpJo9MCPr2H7LHNPgjuhiog)
@@ -32,6 +40,8 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 ## Conference hosting
 <!-- ICMI workshop on digital fabrication for inclusive technology ([ICMI] 2020) -->
 Workshop on Complexity, Dynamics and Enaction in Human Computer Interaction ([CHI21] 2021)
+
+AC the CSCW2021 poster session ([CSCW21](https://cscw.acm.org/2021/))
 
 Co-Chair (Paper chair) the International Conference on Auditory Display ([ICAD] 2019)
 
