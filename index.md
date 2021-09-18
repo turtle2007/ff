@@ -3,7 +3,7 @@ layout: home
 ---
 # About Me
 
-I am a Research Associate in the [BIG](http://www.biglab.co.uk) lab, computer science department at the [University of Bristol](http://www.bristol.ac.uk/engineering/). My current project is about understanding Multi-sensory technologies for inclusive education and health care. 
+I am a Research Associate in the [BIG](http://www.biglab.co.uk) lab, computer science department at the [University of Bristol](http://www.bristol.ac.uk/engineering/). My current project is about understanding Multi-sensory technologies and affective interaction for inclusive education and health care. 
 
 I was awarded my PhD in Nov 2019 at the [Cognitive Science](http://cogsci.eecs.qmul.ac.uk) research group, School of Electronic Engineering and Computer Science ([EECS](http://eecs.qmul.ac.uk)), Queen Mary University of London ([QMUL](https://www.qmul.ac.uk)).
 
