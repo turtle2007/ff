@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Affective BK Robot"
-date:   2020-03-01
+date:   2021-03-01
 excerpt: "Keywords: Affective robot, Shape-change, Wearable skin, Touch"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
 ---
