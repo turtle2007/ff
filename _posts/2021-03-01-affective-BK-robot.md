@@ -7,10 +7,11 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affect
 ---
 
 
-<h5>Keywords: Affective robot, Shape-change, Wearable skin, Touch</h5>
+<h5>Keywords: Affective, Shape-change, Wearable skin, Touch</h5>
 
 
-## Exploring people' emotional states when they interact with a robot who with a shape-changing skin
+## Exploring people' emotional states when they interact with a shape-changing skin
+[Publish as CHI 2022 proceedings. The preprint paper: )]({{site.baseurl}}/assets/files/chi22-185.pdf). 
  
 ### Research story
 In nature, information is conveyed through not only language but a variety of channels such as postures, shapes, ultrasonics, and swarm formations (of ants, birds, bees etc.). <!-- Of all the possible information channels, 
@@ -25,11 +26,11 @@ Look at following pics. The shapes convey very clear messages that can be percei
 (The hedgehocs' pic are adopted from [critterconnection](http://blog.critterconnection.cc/spine-language/)
 
 ### The question
-What if a robot has a skin which conveys information through shape-change mechanism? How would human understand the robot's messages by perceiving the change of the skin? 
+What if an object or a robot has a skin which conveys information through shape-change mechanism? How would human understand the affective messages by perceiving the change of the skin? 
 
-This project aims to understand how human understand robot's affective states which are expressed through shape-change on its skin.
+This project aims to understand how human understand affective states which are expressed through shape-change skin.
 
-As a first step, we control the shape-change of the robot skin by three parameters: change of the `size`, `speed` and the `frequency` of the change.
+As a first step, we control the shape-change by three parameters: change of the `size`, `speed` and the `frequency` of the change.
 
 ### Motivation
 
