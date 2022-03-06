@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Affective BK Robot"
-date:   2021-03-01
+date:   2021-12-16
 excerpt: "Keywords: Affective robot, Shape-change, Wearable skin, Touch"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
 ---
@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affect
 
 
 ## Exploring people' emotional states when they interact with a shape-changing skin
-[Publish as CHI 2022 proceedings. The preprint paper: )]({{site.baseurl}}/assets/files/chi22-185.pdf). 
+[Publish as CHI 2022 proceedings. Click to see the preprint paper.)]({{site.baseurl}}/assets/files/chi22-185.pdf)
  
 ### Research story
 In nature, information is conveyed through not only language but a variety of channels such as postures, shapes, ultrasonics, and swarm formations (of ants, birds, bees etc.). <!-- Of all the possible information channels, 
