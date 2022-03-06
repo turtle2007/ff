@@ -7,7 +7,16 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 ---
 
 ## Publications
-<h3> [J1] Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
+<h3> Integration of Human Factors in Surgery: interdisciplinary collaboration in design, development, and evaluation of surgical technologies </h3>
+<p>Roman Bednarik, Ann Blandford, Feng Feng, Antti Huotarinen, Matti Iso-Mustajärvi, Ahreum Lee, Federico Nicolosi, Jeremy Opie, Soojeong Yoo, Bin Zheng. Accepted for CHI 2022</p>
+Up in May 2022: [https://doi.org/10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
+
+
+<h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
+<p>Feng, F., Bennett, D., Fan, Z., \& Metatla, O. Accepted for CHI 2022</p>
+Up in May 2022: [https://doi.org/10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
+
+<h3> Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 <p>Feng, F., Li, P., & Stockman, T. (2021). Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming. Journal on Multimodal User Interfaces, 15(1), 45-59. </p>
 [doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y)
 
@@ -16,9 +25,6 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/at
 
 <!-- <h3> [J3] Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h3>
 (Pipeline: International journal of human computer studies)) -->
-
-<h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
-<p>Feng, F., Bennett, D., Fan, Z., \& Metatla, O. Under review for CHI 2022</p>
 
 <h3> Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla (2021, May). Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
 [doi:10.1145/3411764.3445373](https://doi.org/10.1145/3411764.3445373)
