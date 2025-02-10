@@ -6,14 +6,18 @@ permalink: /Teaching/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4teaching.jpg"
 ---
 
-## Co-supervision (Day-to-day supervision, bi-week meetings, guide paper writing.)
+## Co-Supervision 
+
+(Day-to-day supervision, bi-week meetings, guide paper writing.)
 - One PhD student 2022-2024 with Dr Janne Lindqvist at Aalto University, Finland.
 - Four MSc students 2019-2024 with Dr Oussama Metatla, Dr Zhijun Fan at Bristol University, UK,
 Shandong University, China.
 - Research interns and final-year project of undergraduate 2019 - 2022 with Dr Tony Stockman at Queen
 Mary University of London, UK.
 
-## Guest Lectures (Design course content, deliver lectures.)
+## Guest Lectures 
+
+(Design course content, deliver lectures.)
 - Affective interaction design for healthcare technology at Qilu University of Technology, China (2024
 spring, for undergraduate and master programmes).
 - Introduction of research in Human-computer interaction at University of Birmingham, UK (2024 Autumn, for master programme).

@@ -6,7 +6,7 @@ permalink: /ResearchVision/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4vision.jpg"
 ---
 
-## My research trajectories
+## My Research Trajectories
 
 My research has two complementary strands: skilled sensorimotor action and first-person experience. Both address issues of multisensory perception and interaction in applied Human-Computer Interaction (HCI) research. In both, I translate theories from cognitive science, adapting them to the needs of multisensory interface design. My current work brings these strands together to focus on support for affective regulation.
 
@@ -23,7 +23,7 @@ I am particularly proud of my recent works on thermal interaction, which connect
 In the future, I would like to be known as a researcher who is leading the translational science in the field of affective interaction in HCI: my work creates bridges between experiential, scientific, and design approaches to support the development of multisensory technologies. My research toolkits will help engineering-focused researchers address the complexity of affective and situated experience, and help design-focused researchers connect their understandings to scientific and engineering principles. In particular, I plan to pursue this goal in the context of multisensory technologies for affective interaction and affective regulation in children and both neurodiverse and neurotypical populations.
 
 
-## Something more about my previous design
+## Something More About My Previous Design
 Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 
 
 As a designer, I designed the branding and visual identity system (VI system) for the [China Academy Museum](http://ylsy.hnu.edu.cn/wbly/wbsy.htm).
