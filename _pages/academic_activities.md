@@ -26,12 +26,12 @@ based in Chinese Cí Poetry</h3>
 
 <h3> Integration of Human Factors in Surgery: interdisciplinary collaboration in design, development, and evaluation of surgical technologies </h3>
 <p>Roman Bednarik, Ann Blandford, Feng Feng, Antti Huotarinen, Matti Iso-Mustajärvi, Ahreum Lee, Federico Nicolosi, Jeremy Opie, Soojeong Yoo, Bin Zheng. Accepted for CHI 2022</p>
-Up in May 2022: [https://doi.org/10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
+[https://doi.org/10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
 
 
 <h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
 <p>Feng, F., Bennett, D., Fan, Z., \& Metatla, O. Accepted for CHI 2022</p>
-Up in May 2022: [https://doi.org/10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
+[https://doi.org/10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
 
 <h3> Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 <p>Feng, F., Li, P., & Stockman, T. (2021). Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming. Journal on Multimodal User Interfaces, 15(1), 45-59. </p>
@@ -60,7 +60,7 @@ Up in May 2022: [https://doi.org/10.1145/3491102.3502003]( https://doi.org/10.11
 <h3> Feng, F., Stockman, T., Bryan-Kinns, N., & AI-Thani, D. (2015, September). An investigation into the comprehension of map information presented in audio. In Proceedings of the XVI International Conference on Human Computer Interaction (p. 29). ACM.</h3>
 [doi: 10.1145/2829875.2829896](https://dl.acm.org/doi/abs/10.1145/2829875.2829896?casa_token=Eq2v0eG-AdMAAAAA:0Gnc4MFT5W2l1VFQIxb-5wemeC-6oPBwHPpnRQwu3o0bq7BnOsPrhZFjfcTIc0Oud7lD5h2oRTyBYQ) -->
 
-## Academic duties and conference organisation
+## Academic Duties and Conference Organisation
 ### Program Committee as an Associate Chair for Top-ranked International Conferences:
 - CHI - The ACM CHI conference on Human Factors in Computing Systems
 - DIS - ACM Designing Interactive Systems
@@ -73,23 +73,29 @@ Up in May 2022: [https://doi.org/10.1145/3491102.3502003]( https://doi.org/10.11
 (Proposed for CHI'25) Towards \Cross-sensory Interaction": How Should we Leverage Crossmodal
 Cognition & Neuroplasticity in HCI?
 
-### Review for Top-ranked International Conferences since 2019:
+### Review for Top-ranked International Conferences:
 CHI, CSCW, DIS, Ubicomp/ISWC, Worldhaptics, Eurohaptics, ICAD
 
-## Invited talks
+## Invited Talks
 - Multisensory, Emotion and Design Theory
+
 Danish HCI day, Copenhagen 2024
 - Design Framework for Affective-Thermal Interaction based in Chinese Cí Poetry
+
 Computer science seminar, University of Birmingham 2024
 - Theory Use in CHI Scaffolding Theories and Methods for HCI Research and Practice
+
 Human and Technology Group, TU Chemnitz 2022
 - Touch, Affects, and Shape-change Robots: Understanding Touch-affect Association in
 Shape-change with Kinematic Features
+
 School of Computer Science and Informatics, Cardiff University 2022
 - Translating Crossmodal Correspondences for Multisensory Interaction Design
+
 Game Group, Tempere University 2021
 - Understanding Crossmodal Correspondences and the Implications for Rehabilitation Tech-
 nology Design
+
 Department of Mechanical Engineering, Shandong University 2019
 
 <!-- <a href="#" class="btn btn-default">Back to top</a> -->
