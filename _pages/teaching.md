@@ -3,7 +3,7 @@ layout: aboutme
 title:  "Teaching"
 description: "Teaching experience"
 permalink: /Teaching/
-image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4teaching.png"
 ---
 
 <h3>Following are selected list of undergraduate/postgraduate modules that I've taught as a teaching assistant.</h3>
