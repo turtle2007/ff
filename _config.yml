@@ -1,17 +1,17 @@
 # Site
 title: Feng 馮鳳
-description: PhD, Researcher in HRI, HCI, and embodied cognition
+description: PhD, Researcher in HCI, Emotion/Affect and Enactivism
 # url: https://turtle2007.github.io/ff
 url: https://fengxiwu.org
-logo: feng.png
+logo: red.jpg
 # locale: en_US
 locale: en_UK
 
 # Left Block Images
 background:
-  homepage: images/home.png                     # this image will be shown on homepage's left block
-  post-list: images/caneryWharf.jpg             # this image will be shown on post list page
-  default-post: images/caneryWharf.jpg          # this image will be shown when post's front matter doesn't specify any image
+  homepage: images/home_tai.jpg                     # this image will be shown on homepage's left block
+  post-list: images/images/home_tai.jpg             # this image will be shown on post list page
+  default-post: images/images/home_tai.jpg          # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
 permalink:          /:title/
