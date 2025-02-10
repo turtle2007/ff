@@ -3,7 +3,7 @@ layout: aboutme
 title:  "Publications and Academic Activities"
 description: "Publications and Academic Activities"
 permalink: /Acedemic/
-image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/athens.jpg"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4pub.jpg"
 ---
 
 ## Publications
