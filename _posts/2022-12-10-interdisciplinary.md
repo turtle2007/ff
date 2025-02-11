@@ -3,6 +3,7 @@ layout: post
 title:  "CHI'22 workshop-Interdisciplinary Collaboration"
 date:   2022-12-10
 excerpt: "Keywords: Human Computer Interaction; Surgical Technology; Patient Safety; Human Factors; Collaboration"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/surgical.jpg"
 ---
 
 

@@ -4,7 +4,7 @@ title:  "Design Framework - Affective Thermal Experience"
 date:   2024-07-01
 excerpt: "Keywords: Thermal, affect, emotion, translation, cross-cultural, lexicon, design,
 framework, multisensory"
-# image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi2.jpg"
 ---
 
 
@@ -14,13 +14,13 @@ framework, multisensory</h5>
 
 ## Smiles Summon theWarmth of Spring: A Framework for Thermal and Affective Design Grounded in Classical Chinese Poetry
 
-[Publish as DIS 2024 proceedings. Click to see the preprint paper.)]({{site.baseurl}}/assets/files/dis24-202.pdf)
+[Publish as DIS 2024 proceedings. Click to see the preprint paper.]({{site.baseurl}}/assets/files/dis24-202.pdf)
  
 ### Abstract
 Thermal-affective experience is a growing topic in Human-Computer Interaction. However, research linking thermal and affective experience in technology use has not moved beyond attempts to establish broad, sweeping associations, such as between warmth and positive affect. One of the obstacles to progression is the need for frameworks and vocabularies that describe and conceptualise the richness of thermal perception and affective experience. To help conceptualise associations between thermal perception and affective experience we turn to Cí poetry, a form of classical Chinese literature rich with evocative descriptions of embodied, environmentally situated, first-person experience. We conducted a lexical analysis to identify thermal-affective associations, and propose a design framework addressing thermal design. We demonstrate the value of this framework via analysis of existing thermal design exemplars.
 
 <figure>
-<img src="{{site.baseurl}}/images/design_framework/teaser.png" style = "width:700px"/>
+<img src="{{site.baseurl}}/images/design_framework/teaser.png" style = "width:800px"/>
 </figure>
 
 ### Language for articulating and designing experience
@@ -58,12 +58,12 @@ People also perceive agency in thermal cues. They can be experienced as dominant
 Thermal cues also have different temporal and material qualities. For example “Wen” (温) describes an enveloping, flowing warmth, while “nuan” (暖) conveys radiant warmth. These can feel quite different and have different emotional associations.
 
 <figure>
-<img src="{{site.baseurl}}/images/design_framework/wen_nuan.jpg" style = "width:400px"/>
+<img src="{{site.baseurl}}/images/design_framework/wen_nuan.jpg" style = "width:300px"/>
 </figure>
 
 This is just a small part of our findings! The paper contains much more, alongside evocative examples which designers can draw upon for inspiration!
 
-### For design
+### Towards design theories
 We connect these results to the needs of interaction design, creating a framework to guide thermal affective design.
 This provides vocabulary and guiding principles to help designers navigate the complex multisensory landscape of thermal-affective experience.
 
