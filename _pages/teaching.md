@@ -6,21 +6,15 @@ permalink: /Teaching/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4teaching.jpg"
 ---
 
-## Co-Supervision 
+## Supervision 
 
-(Day-to-day supervision, bi-week meetings, guide paper writing.)
-- One PhD student 2022-2024 with Dr Janne Lindqvist at Aalto University, Finland.
-- Four MSc students 2019-2024 with Dr Oussama Metatla, Dr Zhijun Fan at Bristol University, UK,
-Shandong University, China.
-- Research interns and final-year project of undergraduate 2019 - 2022 with Dr Tony Stockman at Queen
-Mary University of London, UK.
+At Bristol University, I supervised research internships, and BSc and MSc students in their
+thesis projects. At Aalto University, I co-supervised a PhD student project with Dr Janne Lindqvist. Of these
+projects, two resulted in publication and one is under review. Recently, I have co-developed
+an HCI course for MSc students with colleagues from Shandong University. This course introduces design students to perceptual theories from psychology and guides them in applying these theories in their own design practice.
 
 ## Guest Lectures 
-
-(Design course content, deliver lectures.)
-- Affective interaction design for healthcare technology at Qilu University of Technology, China (2024
-spring, for undergraduate and master programmes).
-- Introduction of research in Human-computer interaction at University of Birmingham, UK (2024 Autumn, for master programme).
+As a guest lecturer, I have developed and delivered an HCI course, Affective Interaction Design, for undergraduate and master students at Qilu University of Technology, China (2024 Spring), with Dr Puhong Li. In the autumn of 2024, I also developed and delivered a course for the master's program: Introduction of Research in Human-computer Interaction, at the University of Birmingham, UK, with Dr Hyunyong Kim.
 
 
 <h3>Following are selected list of undergraduate/postgraduate modules that I've taught as a teaching assistant.</h3>
