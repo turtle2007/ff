@@ -3,7 +3,7 @@ layout: post
 title:  "Design Toolkit - Thermal Cards"
 date:   2025-01-29
 excerpt: "Keywords: Thermal interaction; affect, emotion; experiential quality; design cards; design principle; crossculture; Chinese poetry"
-# image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/......png"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/cards.png"
 ---
 
 
@@ -15,11 +15,20 @@ excerpt: "Keywords: Thermal interaction; affect, emotion; experiential quality; 
 [Publish as TEI 2025 proceedings. Click to see the preprint paper.)]({{site.baseurl}}/assets/files/TEI2025-Pic.pdf)
  
 ### Abstract
-TBD
+A “warm” smile? A “cold” rage? Thermal and emotional experiences are often tightly connected. In recent years HCI has investigated opportunities for thermal technologies to enrich user experience. However, our vocabulary for these experiences has remained limited and inexpressive: “hot”, “cold”, “warm”, “cool”.
+This limits our ability to describe and conceptualise experience, and impedes the exploration of design features for thermal and affective interaction. 
 
-<!-- <figure>
-<img src="{{site.baseurl}}/images/bk_robot/in_nature.png" style = "width:400px"/>
-</figure> -->
+Our pictorial offers resources to enrich language and clarify the design space for thermal and affective technologies. 
+
+We expand the theoretical framework based on Chinese classical poetry to present six lenses on thermal and affective experience. 
+
+The pictorial also functions as a deck of design cards with a design exemplar. Together these resources can help researchers and designers conceptualise thermal experience, explore parameters for experiential design, and design technologies for rich thermal and affective experience.
+
+### OVERVIEW - SIX LENSES FOR THERMAL AFFECTIVE DESIGN
+
+<figure>
+<img src="{{site.baseurl}}/images/design_framework/cards_overview.png" style = "width:700px"/>
+</figure>
 
 
 
