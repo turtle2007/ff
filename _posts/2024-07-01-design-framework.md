@@ -58,7 +58,7 @@ People also perceive agency in thermal cues. They can be experienced as dominant
 Thermal cues also have different temporal and material qualities. For example “Wen” (温) describes an enveloping, flowing warmth, while “nuan” (暖) conveys radiant warmth. These can feel quite different and have different emotional associations.
 
 <figure>
-<img src="{{site.baseurl}}/images/design_framework/wen_nuan.jpg" style = "width:300px"/>
+<img src="{{site.baseurl}}/images/design_framework/wen_nuan.jpg" style = "width:200px"/>
 </figure>
 
 This is just a small part of our findings! The paper contains much more, alongside evocative examples which designers can draw upon for inspiration!
