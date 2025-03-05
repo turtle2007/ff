@@ -24,10 +24,9 @@ based in Chinese Cí Poetry</h3>
 (Just accepted for CHI 2025)
 <!-- [https://doi.org/](https://doi.org/) -->
 
-<h3> Integration of Human Factors in Surgery: interdisciplinary collaboration in design, development, and evaluation of surgical technologies </h3>
-<p>Roman Bednarik, Ann Blandford, Feng Feng, Antti Huotarinen, Matti Iso-Mustajärvi, Ahreum Lee, Federico Nicolosi, Jeremy Opie, Soojeong Yoo, Bin Zheng. Accepted for CHI 2022</p>
-[https://doi.org/10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
-
+<h3>Channel Switching and Adaptive Behaviors in Multichannel Communication</h3>
+<p>Rongjun Ma, Feng Feng, Janne Lindqvist</p>
+(Just accepted for CSCW 2025)
 
 <h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
 <p>Feng Feng, Dan Bennett, Fan Zhijun, Oussama Metatla</p>
@@ -50,6 +49,10 @@ based in Chinese Cí Poetry</h3>
 <h3> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI</h3>
 <p>Dan Bennett, Alan Dix, Parisa Eslambolchilar, Feng Feng, Tom Froese, Vassilis Kostakos, Sebastien Lerique, Niels van Berkel</p>
 [doi:10.1145/3411763.3441321](https://doi.org/10.1145/3411763.3441321)
+
+<h3> Integration of Human Factors in Surgery: interdisciplinary collaboration in design, development, and evaluation of surgical technologies </h3>
+<p>Roman Bednarik, Ann Blandford, Feng Feng, Antti Huotarinen, Matti Iso-Mustajärvi, Ahreum Lee, Federico Nicolosi, Jeremy Opie, Soojeong Yoo, Bin Zheng. Accepted for CHI 2022</p>
+[https://doi.org/10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
 
 
 <!-- <h3> Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h3>
