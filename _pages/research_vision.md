@@ -19,13 +19,13 @@ I am particularly proud of my recent works on affective thermal interaction, whi
 In the future, I would like to be known as a researcher who is leading the translational science in the field of affective interaction in HCI: my work creates bridges between experiential, scientific, and design approaches to support the development of multisensory technologies. My research toolkits will help engineering-focused researchers address the complexity of affective and situated experience, and help design-focused researchers connect their understandings to scientific and engineering principles. In particular, I plan to pursue this goal in the context of multisensory technologies for affective interaction and affective regulation in children and both neurodiverse and neurotypical populations.
 
 
-## Something More About My Previous Design Art
+### Something more about my previous design art
 Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 
 
 Along side that, I have ten years of fine art training, including apprenticeships in several art studios, specialising in
 Gong-Bi (one of the traditional Chinese painting techniques), Calligraphy, and Western art. 
 
-I also enjoy metal working. I completed a three-month metalworking internship, where I gained hands-on experience in the full industrial production cycle|from material forging to CNC machine operation.
+I also enjoy metal working. I completed a three-month metalworking internship, where I gained hands-on experience in the full industrial production cycle - from material forging to CNC machine operation.
 
 As a designer, I designed the branding and visual identity system (VI system) for the [China Academy Museum](http://ylsy.hnu.edu.cn/wbly/wbsy.htm).
 
