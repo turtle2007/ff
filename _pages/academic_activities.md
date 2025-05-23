@@ -16,23 +16,23 @@ on Thermal-Affective Technology</h3>
 <h3>Smiles Summon the Warmth of Spring: A Design Framework for Affective-Thermal Interaction
 based in Chinese Cí Poetry</h3>
 <p>Feng Feng, Dan Bennett, Elisa Mekler</p>
-[ACM DIS'24. doi: 10.1145/3643834.3661620](https://doi.org/10.1145/3643834.3661620)
+[ACM DIS'24 full paper. doi: 10.1145/3643834.3661620](https://doi.org/10.1145/3643834.3661620)
 
 <h3>Autonomous Regulation of Social Media Use: Implications for Self-control, Well-Being, and UX</h3>
 <p>Dan Bennett, Feng Feng, Elisa Mekler</p>
-[ACM CHI'25. doi: 10.1145/3706598.3713094](https://dl.acm.org/doi/10.1145/3706598.3713094)
+[ACM CHI'25 full paper. doi: 10.1145/3706598.3713094](https://dl.acm.org/doi/10.1145/3706598.3713094)
 
 <h3>Channel Switching and Adaptive Behaviors in Multichannel Communication</h3>
 <p>Rongjun Ma, Feng Feng, Janne Lindqvist</p>
-(Just accepted for ACM CSCW 2025)
+(Full paper just accepted for ACM CSCW 2025)
 
 <h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
 <p>Feng Feng, Dan Bennett, Fan Zhijun, Oussama Metatla</p>
-[ACM CHI'22. doi: 10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
+[ACM CHI'22 full paper. doi: 10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
 
 <h3> Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 <p>Feng Feng., Li Puhong, Tony Stockman (2021).Journal on Multimodal User Interfaces, 15(1), 45-59. </p>
-[doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y)
+[Journal paper. doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y)
 
 <!-- <h3> [J2] Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
 (Under review: Applied Ergonomics) -->
@@ -42,15 +42,15 @@ based in Chinese Cí Poetry</h3>
 
 <h3> Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
 <p>Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla </p>
-[ACM CHI'21. doi:10.1145/3411764.3445373](https://doi.org/10.1145/3411764.3445373)
+[ACM CHI'21 full paper. doi:10.1145/3411764.3445373](https://doi.org/10.1145/3411764.3445373)
 
 <h3> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI</h3>
 <p>Dan Bennett, Alan Dix, Parisa Eslambolchilar, Feng Feng, Tom Froese, Vassilis Kostakos, Sebastien Lerique, Niels van Berkel</p>
-[ACM CHI'21. doi:10.1145/3411763.3441321](https://doi.org/10.1145/3411763.3441321)
+[ACM CHI'21 workshop organisation. doi:10.1145/3411763.3441321](https://doi.org/10.1145/3411763.3441321)
 
 <h3> Integration of Human Factors in Surgery: interdisciplinary collaboration in design, development, and evaluation of surgical technologies </h3>
 <p>Roman Bednarik, Ann Blandford, Feng Feng, Antti Huotarinen, Matti Iso-Mustajärvi, Ahreum Lee, Federico Nicolosi, Jeremy Opie, Soojeong Yoo, Bin Zheng. Accepted for CHI 2022</p>
-[ACM CHI'22. doi: 10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
+[ACM CHI'22 workshop organisation. doi: 10.1145/3491101.3503709](https://doi.org/10.1145/3491101.3503709)
 
 
 <!-- <h3> Feng, F., & Stockman, T. (2019, April). Augmented Visuotactile Feedback Support Sensorimotor Synchronization Skill for Rehabilitation. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (p. LBW2120). ACM.</h3>

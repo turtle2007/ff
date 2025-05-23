@@ -6,14 +6,6 @@ permalink: /ResearchVision/
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4vision.jpg"
 ---
 
-<!-- ## My Research Trajectories
-
-My research has two major strands: multisensory interaction, and skilled movement. Both strands are united by a focus on multisensory interaction, and theory translation: drawing on diverse theoretical resources and adapting them to the needs of design.
-
-My work on multisensory interaction aims to bring greater specificity to UX research, and design for experience. My approach here is grounded in an understanding of sensory perception, affective science, and phenomenal experience. Much of my work in this area has focused on understanding synergies and interactions between different sensory modalities, and how these, and their affective associations, can be used to support design. In recent works, I have developed this line of research in both humanistic and engineering directions: I draw on classical Chinese poetry as a rich source of phenomenal description, constructed a theoretical framework for conceptualising the nuances and qualities of affective-thermal experiences. Based on this framework, I translated the theoretical account into a design toolkit with a purpose of engineering experience and technical affordances, which connects experiential qualities with concrete design parameters. This toolkit supports systematic design process for multisensory and affective technology. This process of theory-building and translation in my work has opened a rich seam of research ideas for me, my colleagues and students I am co-supervising.
-
-My work on skilled movement is also grounded in understandings from psychology of multisensory perception - now to support skill learning, and the guidance of movement. During my PhD research I designed multisensory environments to support rehabilitation, wayfinding and sensory-motor skills. More recently I adapted methodologies from psychophysics to understand tactile skill in surgical training. Increasingly I have become interested in the complex contextual factors around skill learning and practice, and how these impact experience, outcomes, and research methods. -->
-
 ## Research Focus
 My research addresses how we can enrich multisensory and affective interaction by understanding the complexities of embodied, situated cognition and perception.
 One strand of this research involves empirical work - grounded in the psychology of multisensory perception - to understand synergies and interactions between different sensory modalities and affect. I have applied this approach to understand how multisensory technologies can support affective experience and communication and skilled movement. Another strand has involved the development of theory to make these insights actionable for designers. I analysed a corpus of classical Chinese poetry (a rich source of phenomenal description) to develop a theoretical framework for articulating and conceptualising thermal-affective experiences using multisensory technologies. Building on this framework, I developed a design toolkit that translates the theoretical concepts into practical guidance, and helps practitioners bridge design and technical parameters to experiential qualities in activities such as design workshops and technical ideation. This cycle of theory building and translation has opened a rich seam of research ideas, which I am now pursuing with colleagues and students.
@@ -27,12 +19,16 @@ I am particularly proud of my recent works on affective thermal interaction, whi
 In the future, I would like to be known as a researcher who is leading the translational science in the field of affective interaction in HCI: my work creates bridges between experiential, scientific, and design approaches to support the development of multisensory technologies. My research toolkits will help engineering-focused researchers address the complexity of affective and situated experience, and help design-focused researchers connect their understandings to scientific and engineering principles. In particular, I plan to pursue this goal in the context of multisensory technologies for affective interaction and affective regulation in children and both neurodiverse and neurotypical populations.
 
 
-## Something More About My Previous Design
+## Something More About My Previous Design Art
 Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 
+
+Along side that, I have ten years of fine art training, including apprenticeships in several art studios, specialising in
+Gong-Bi (one of the traditional Chinese painting techniques), Calligraphy, and Western art. 
+
+I also enjoy metal working. I completed a three-month metalworking internship, where I gained hands-on experience in the full industrial production cycle|from material forging to CNC machine operation.
 
 As a designer, I designed the branding and visual identity system (VI system) for the [China Academy Museum](http://ylsy.hnu.edu.cn/wbly/wbsy.htm).
 
-In previous intership/design projects, I've worked with [Oulin](http://www.oulin.net/product2.html) and conducted ethnographic study for the design of IoT smart kitchen project. 
+<!-- In previous intership/design projects, I've worked with [Oulin](http://www.oulin.net/product2.html) and conducted ethnographic study for the design of IoT smart kitchen project. 
 
-I've participated in the creation of a campus journal "The voice of Yuelu" (Yuelu is a metaphor of academics) with the [Business school](http://ibschool-en.hnu.edu.cn) in Hunan University. With the collaboration of MBA collegues, we together designed and edited the first five issues with focus on business models covering product desgin, interaction design and the general service industry (2013-2014). 
-<!-- Unfortunately, I graduated in 2014 and stop working on it. and the journal discontinued in 2015. -->
+I've participated in the creation of a campus journal "The voice of Yuelu" (Yuelu is a metaphor of academics) with the [Business school](http://ibschool-en.hnu.edu.cn) in Hunan University. With the collaboration of MBA collegues, we together designed and edited the first five issues with focus on business models covering product desgin, interaction design and the general service industry (2013-2014).  -->
