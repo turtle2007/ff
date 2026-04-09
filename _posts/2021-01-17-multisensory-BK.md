@@ -1,10 +1,11 @@
 ---
 layout: post
 # title:  "Multisensory BK Forms"
-title:  "From Theory to Design"
+title:  "From Theory to Design Affective Haptics"
 date:   2021-01-17
 excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience design"
-image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg"
+# image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg"
+image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
 <!-- tag:
 - jekyll 
 - halve
@@ -16,7 +17,7 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg
 
  
 <!-- ## The "BK" and the multisensory experience -->
-## From psychology to designing multisensory experiences
+## From psychology to HCI
 The “Bouba–Kiki” experiment is a well-known way psychologists study how our senses connect with each other. It looks at how we naturally match sounds with visual shapes.
 
 In this kind of study, people are shown two simple shapes:
@@ -35,7 +36,7 @@ Across different cultures and languages, most people tend to match:
 <!-- We believe we can use these shapes to inform design of tangible digital devices. -->
 This simple experiment shows how our senses are not completely separate—they influence each other. Understanding these connections can help designers create richer, more engaging multisensory experiences, where visuals, sounds, and even textures feel naturally connected.
 
-## Tangible display 
+## Towards tangible display 
 The above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation has also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
@@ -44,7 +45,7 @@ This perceptual correlation has also been found between 3D-shapes and the phonem
 <img src="{{site.baseurl}}/images/bk/bkTangible.jpeg" width = "400"/>
 </figure>
 
-## How this can be utilised in design?
+## How this can be utilised in design affective interaction?
 <!-- In a CHI mentality, the next question we are thinking about is  -->
 How can we leverage such a perceptual regularity to benefit our life?
 

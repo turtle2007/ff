@@ -2,7 +2,7 @@
 layout: post
 # title: "Crossmodal Paradox"
 title: "Theory Translation 4 Design"
-date:   2018-12-21
+date:   2020-12-21
 excerpt: "Crossmodal perception and cognitive priming"
 image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
 <!-- tags: 
