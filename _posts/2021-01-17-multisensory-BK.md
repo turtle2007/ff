@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Multisensory BK Forms"
+# title:  "Multisensory BK Forms"
+title:  "From Theory to Design"
 date:   2021-01-17
-excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience"
+excerpt: "Keywords: Shape-change, Bouba-kiki effect, Multisensory experience design"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg"
 <!-- tag:
 - jekyll 
@@ -14,16 +15,27 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi1.jpg
 ---
 
  
-## The "BK" and the multisensory experience
-BK is abbreviation of "Bouba-kiki", which represents two types of shapes: shape "Bouba" and shape "Kiki". They are originally look like this:
+<!-- ## The "BK" and the multisensory experience -->
+## From psychology to designing multisensory experiences
+The “Bouba–Kiki” experiment is a well-known way psychologists study how our senses connect with each other. It looks at how we naturally match sounds with visual shapes.
+
+In this kind of study, people are shown two simple shapes:
 
 <figure>
 <img src="{{site.baseurl}}/images/bk/bk.jpg" width = "400"/>
 </figure>
 
-<h4>Make a guess about which label belongs to which shape </h4> (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population! We believe we can use these shapes to inform design of tangible digital devices.
+<h4>Make a guess about which label belongs to which shape </h4> (Don't google before making a guess!). I have greater than 95% chance of guessing your answer correct. If I'm wrong, unfortunately or fortunately, you are one of the less than 5% outliers in the whole population! 
 
-## Tangible BK 
+Across different cultures and languages, most people tend to match:
+
+- “Bouba” with the round, soft shape
+- “Kiki” with the sharp, spiky shape
+
+<!-- We believe we can use these shapes to inform design of tangible digital devices. -->
+This simple experiment shows how our senses are not completely separate—they influence each other. Understanding these connections can help designers create richer, more engaging multisensory experiences, where visuals, sounds, and even textures feel naturally connected.
+
+## Tangible display 
 The above example shows crossmodal correlation exists between 2D-shape recognition and phonemes.
 
 This perceptual correlation has also been found between 3D-shapes and the phonemes of "Bouba" and "Kiki" alike, as shown in the figure below.
@@ -44,7 +56,7 @@ An interesting application is to build a perceptual common ground, for instance,
 (This figure is adopted from the core77.)
 
 
-### Shape-change BK robot
+### Shape-changing robot for affective experience design
 <!-- Our ``research concerns`` how people understand the affordances that shape-change device, interfaces and robots provide, both physically and psychologically.
 
 At the current stage, we ``aim`` to empirically investigate emotional states that people can perceive based on the transition between tangible "Bouba" and "Kiki".
@@ -62,7 +74,7 @@ We built a pneumatically actuated robot, the BK robot, and control the size, spe
 
 <!-- **Result:** wait for the update. -->
 
-## BK for fun: augment heart beat
+## Just for fun: augment heart beat
 This little bot feels your heart and synchronises its beat with you.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzrMWaAxrA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

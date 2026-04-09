@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Crossmodal Paradox"
+# title: "Crossmodal Paradox"
+title: "Theory Translation 4 Design"
 date:   2018-12-21
 excerpt: "Crossmodal perception and cognitive priming"
 image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_Comp_VIII.jpg"
@@ -11,9 +12,12 @@ image: "https://storage.googleapis.com/hoopla/production/image/37828/Kandinsky_C
 ---
 
 <h5>Keywords</h5>
-Crossmodal correspondences, Crossmodal Congruency, Perception, Sensorimotor response, Cognitive priming
+Thoery use in design, Crossmodal Congruency, Perception, Sensorimotor response, Cognitive priming
 
-This page discusses my research relating to Crossmodal Correspondences: perceptual associations between sensory modalities. I am interested in the way we can exploit these correspondences to support user experience, efficiency and safety. Can crossmodal perception be enhanced by cognitive priming? How do crossmodal contradictions affect the integration of information?. You can read the preprinting paper [here]({{site.baseurl}}/assets/files/JMUI_accepted.pdf).
+<!-- This page discusses my research relating to Crossmodal Correspondences: perceptual associations between sensory modalities. I am interested in the way we can exploit these correspondences to support user experience, efficiency and safety. Can crossmodal perception be enhanced by cognitive priming? How do crossmodal contradictions affect the integration of information?.  -->
+
+In this work, I investigate the ecological validity of theoretical accounts of crossmodal correspondences from cognitive psychology. To do so, I designed a web-based interactive memory game as a testbed, partially replicating experimental paradigms from psychology. A key finding of this study is that insights from another scientific discipline do not always translate directly into interactive contexts. Bridging this gap requires thoughtful adaptation of theory to account for contextual and situated factors.
+You can read the preprinting paper [here]({{site.baseurl}}/assets/files/05-JMUI.pdf).
 
 ## Research Background
 
@@ -60,7 +64,7 @@ In this project, we are `aiming` to tackle following two `questions`:
  
 ## Method, Results and Implications for Design
 
-If you are interested in knowing the discoveries and contributions of this project, you can read the published paper [here (preprinting)]({{site.baseurl}}/assets/files/JMUI_accepted.pdf). 
+If you are interested in knowing the discoveries and contributions of this project, you can read the published paper [here (preprinting)]({{site.baseurl}}/assets/files/05-JMUI.pdf). 
 
 Title: Exploring crossmodal perceptual enhancement and integration in a sequence reproducing task with cognitive priming
 
