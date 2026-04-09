@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Autoethnographic RtD for Affect Regulation Tech"
+title:  "Autoethnographic RtD for Affect Regulation Tech"
 date:   2026-03-08
 excerpt: "Keywords: Affevt regulation; Autoethnography; design space; inter-mediate level knowledge"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/cards_sml.png"
