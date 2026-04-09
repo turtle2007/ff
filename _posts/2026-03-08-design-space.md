@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Design Space - Bridge Experience w Technology"
+title:  "An Autoethnographic RtD for Affect Regulation Tech"
 date:   2026-03-08
 excerpt: "Keywords: Affevt regulation; Autoethnography; design space; inter-mediate level knowledge"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/cards_sml.png"
 ---
 
 
-<h5>Keywords: Affevt regulation; Autoethnography; design space; inter-mediate level knowledge</h5>
+<h5>Keywords: Temperature; Affevt regulation; Autoethnography; Neurodiverse; Design space; Experience; Technical formalisation</h5>
 
 
 ## Constructing the Thermal Affective Design Space for Emotion Regulation: An Autoethnographic Research Through Design Inquiry
