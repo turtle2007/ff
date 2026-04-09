@@ -8,6 +8,10 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4p
 
 ## Selected Publications
 
+<h3>Constructing the Thermal Affective Design Space for Emotion Regulation: An Autoethnographic Research Through Design Inquiry</h3>
+<p>Feng Feng, Kim Halskov, Dan Bennett, Minna Pakanen, Elisa Mekler</p>
+[ACM SIGCHI 2026 doi: 10.1145/3772318.3791565](https://doi.org/10.1145/3772318.3791565)
+
 <h3>Thermal Cards: From Classical Chinese Poetry to Designerly Lenses
 on Thermal-Affective Technology</h3>
 <p>Feng Feng, Elisa Mekler</p>
@@ -42,7 +46,11 @@ based in Chinese Cí Poetry</h3>
 
 <h3> Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
 <p>Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla </p>
-[ACM CHI'21 full paper. doi:10.1145/3411764.3445373](https://doi.org/10.1145/3411764.3445373)
+[ACM CHI'21 full paper. Up after April 2026](https://doi.org/10.1145/3411764.3445373)
+
+<h3> Cross-Sensory Futures: Rewiring Perception in HCI</h3>
+<p>DOussama Metatla, Min S. Li, Feng Feng, Cameron Steer, Michael J. Proulx</p>
+[ACM CHI'26 workshop organisation. doi:10.1145/3411763.3441321](https://chi2026.acm.org/workshops/accepted/\#w17-crosssensory-futures-rewiring-perception-in-hci)
 
 <h3> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI</h3>
 <p>Dan Bennett, Alan Dix, Parisa Eslambolchilar, Feng Feng, Tom Froese, Vassilis Kostakos, Sebastien Lerique, Niels van Berkel</p>
@@ -70,6 +78,7 @@ based in Chinese Cí Poetry</h3>
 - ICAD - The International Community for Auditory Display
 
 ### International Workshop/Seminar Hosting:
+- CHI 2026 workshop on sensory, perception and design in HCI
 - CHI 2021 workshop on Complexity Methods for HCI
 - CHI 2022 workshop on Compatible Collaborative Approaches in Medical Research
 (Proposed for CHI'25) Towards \Cross-sensory Interaction": How Should we Leverage Crossmodal
@@ -78,7 +87,10 @@ Cognition & Neuroplasticity in HCI?
 ### Review for Top-ranked International Conferences:
 CHI, CSCW, DIS, Ubicomp/ISWC, Worldhaptics, Eurohaptics, ICAD
 
-## Invited Talks
+## Invited Talks (Selected)
+- Practical theory in HCI research and design
+
+Interaction Design seminar, Aarhus 2025
 - Multisensory, Emotion and Design Theory
 
 Danish HCI day, Copenhagen 2024
