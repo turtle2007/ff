@@ -20,7 +20,7 @@ In the future, I would like to be known as a researcher who is leading the trans
 
 
 ### Something more about my previous design art
-Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the top 3 design schools in China. 
+Before my PhD, I studied Industrial design in the school of Mechenical Engineering ([ME](http://www.mech.sdu.edu.cn/ENGLISH.htm)), Shandong University ([SDU](http://www.sdu.edu.cn), Double-First Class University, Rank A）in China, with 1st class honours; and Interaction Design in the design school at Human University ([HNU](http://design.hnu.edu.cn/Home.htm)), one of the  leading design schools in China. 
 
 Along side that, I have ten years of fine art training, including apprenticeships in several art studios, specialising in
 Gong-Bi (one of the traditional Chinese painting techniques), Calligraphy, and Western art. 
