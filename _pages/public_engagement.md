@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/le
 
 <p>The database is part of an ongoing research project. We share our research data here to give design researchers and practitioners free and easy access to recent research and technological developments in thermal interaction.</p>
 
-- Database: https://sandyleedev.github.io/thermal-interaction-web/
+- Database: [https://sandyleedev.github.io/thermal-interaction-web/](https://sandyleedev.github.io/thermal-interaction-web/)
 
 <p>Research team: Dr Feng Feng (researcher), Dr Hyunyoung Kim (research collaborator), and Miss Seungji Lee (research assistant and technician). We update the database at least twice a year.</p>
 
