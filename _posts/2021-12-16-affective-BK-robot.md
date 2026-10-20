@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Affective BK Robot"
+title:  "Design Affective Haptics"
 date:   2021-12-16
-excerpt: "Keywords: Affective robot, Shape-change, Wearable skin, Touch"
+excerpt: "Keywords: Affective robot, Shape-changing interface, Wearable skin, Touch"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/pro-affectiveBKrobot.png"
 ---
 
 
-<h5>Keywords: Affective, Shape-change, Wearable skin, Touch</h5>
+<h5>Keywords: Affective, Shape-changing interface, Wearable skin, Touch</h5>
 
 
 ## Exploring people' emotional states when they interact with a shape-changing skin

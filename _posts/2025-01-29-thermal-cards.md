@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Design Toolkit - Thermal Cards"
+title:  "Design Toolkit - Cards for Multisensory Affective Design"
 date:   2025-01-29
-excerpt: "Keywords: Thermal interaction; affect, emotion; experiential quality; design cards; design principle; crossculture; Chinese poetry"
+excerpt: "Keywords: Thermal interaction; Multisensory, Affect, emotion; design cards; design principle; cross-culture; Ci poetry"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/cards_sml.png"
 ---
 

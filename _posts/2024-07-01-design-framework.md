@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Design Framework - Affective Thermal Experience"
+title:  "Design Framework - Thermal-Affective Interaction"
 date:   2024-07-01
-excerpt: "Keywords: Thermal, affect, emotion, translation, cross-cultural, lexicon, design,
+excerpt: "Keywords: Thermal experience, Affect, Emotion, Ci Poetry, Translation, Cross-cultural, Design
 framework, multisensory"
 image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/multi2.jpg"
 ---
