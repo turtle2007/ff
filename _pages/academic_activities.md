@@ -12,6 +12,10 @@ image: "https://raw.githubusercontent.com/turtle2007/ff/master/images/aboutme/4p
 <p>Feng Feng, Kim Halskov, Dan Bennett, Minna Pakanen, Elisa Mekler</p>
 [ACM SIGCHI 2026 doi: 10.1145/3772318.3791565](https://doi.org/10.1145/3772318.3791565)
 
+<h3>Autonomous Regulation of Social Media Use: Implications for Self-control, Well-Being, and UX</h3>
+<p>Dan Bennett, Feng Feng, Elisa Mekler</p>
+[ACM CHI'25 full paper. doi: 10.1145/3706598.3713094](https://dl.acm.org/doi/10.1145/3706598.3713094)
+
 <h3>Thermal Cards: From Classical Chinese Poetry to Designerly Lenses
 on Thermal-Affective Technology</h3>
 <p>Feng Feng, Elisa Mekler</p>
@@ -22,21 +26,17 @@ based in Chinese Cí Poetry</h3>
 <p>Feng Feng, Dan Bennett, Elisa Mekler</p>
 [ACM DIS'24 full paper. doi: 10.1145/3643834.3661620](https://doi.org/10.1145/3643834.3661620)
 
-<h3>Autonomous Regulation of Social Media Use: Implications for Self-control, Well-Being, and UX</h3>
-<p>Dan Bennett, Feng Feng, Elisa Mekler</p>
-[ACM CHI'25 full paper. doi: 10.1145/3706598.3713094](https://dl.acm.org/doi/10.1145/3706598.3713094)
-
-<h3>Channel Switching and Adaptive Behaviors in Multichannel Communication</h3>
+<!-- <h3>Channel Switching and Adaptive Behaviors in Multichannel Communication</h3>
 <p>Rongjun Ma, Feng Feng, Janne Lindqvist</p>
-(Full paper just accepted for ACM CSCW 2025)
+(Full paper just accepted for ACM CSCW 2025) -->
 
 <h3> It's Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features </h3>
 <p>Feng Feng, Dan Bennett, Fan Zhijun, Oussama Metatla</p>
 [ACM CHI'22 full paper. doi: 10.1145/3491102.3502003]( https://doi.org/10.1145/3491102.3502003)
 
-<h3> Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
+<!-- <h3> Exploring crossmodal perceptual enhancement and integration in a sequence-reproducing task with cognitive priming </h3>
 <p>Feng Feng., Li Puhong, Tony Stockman (2021).Journal on Multimodal User Interfaces, 15(1), 45-59. </p>
-[Journal paper. doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y)
+[Journal paper. doi: 0.1007/s12193-020-00326-y](https://link.springer.com/article/10.1007/s12193-020-00326-y) -->
 
 <!-- <h3> [J2] Can rhythm be touched? An evaluation of rhythmic sketch performance with augmented multimodal feedback </h3>
 (Under review: Applied Ergonomics) -->
@@ -44,9 +44,9 @@ based in Chinese Cí Poetry</h3>
 <!-- <h3> [J3] Concurrent crossmodal feedback assist target-searching: displaying distance information through visual, auditory and haptic modalities  </h3>
 (Pipeline: International journal of human computer studies)) -->
 
-<h3> Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
+<!-- <h3> Feeling Colours: Investigating Crossmodal Correspondences Between 3D Shapes, Colours and Emotions. Proceeding of the 2021 CHI Conference on Human Factors in Computing Systems.</h3>
 <p>Anan Lin, Meike Scheller, Feng Feng, Michael J Proulx, Oussama Metatla </p>
-[ACM CHI'21 full paper. Up after April 2026](https://doi.org/10.1145/3411764.3445373)
+[ACM CHI'21 full paper. Up after April 2026](https://doi.org/10.1145/3411764.3445373) -->
 
 <h3> Cross-Sensory Futures: Rewiring Perception in HCI</h3>
 <p>DOussama Metatla, Min S. Li, Feng Feng, Cameron Steer, Michael J. Proulx</p>
@@ -70,19 +70,22 @@ based in Chinese Cí Poetry</h3>
 <h3> Feng, F., Stockman, T., Bryan-Kinns, N., & AI-Thani, D. (2015, September). An investigation into the comprehension of map information presented in audio. In Proceedings of the XVI International Conference on Human Computer Interaction (p. 29). ACM.</h3>
 [doi: 10.1145/2829875.2829896](https://dl.acm.org/doi/abs/10.1145/2829875.2829896?casa_token=Eq2v0eG-AdMAAAAA:0Gnc4MFT5W2l1VFQIxb-5wemeC-6oPBwHPpnRQwu3o0bq7BnOsPrhZFjfcTIc0Oud7lD5h2oRTyBYQ) -->
 
-## Academic Duties and Conference Organisation
-### Program Committee as an Associate Chair for Top-ranked International Conferences:
+## Academic Leadership and Duties
+
+### Editorial Positions:
+- Associate editor: International Journal of Human-Computer Studies (IJHCS)
+- Distinguished reviewer board: ACM Transactions on Computer-Human Interaction (TOCHI)
+
+### Associate Chair for Top-ranked International Conferences in CS:
 - CHI - The ACM CHI conference on Human Factors in Computing Systems
 - DIS - ACM Designing Interactive Systems
 - CSCW - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing
 - ICAD - The International Community for Auditory Display
 
-### International Workshop/Seminar Hosting:
+### International Workshop/Seminar Hosting at ACM CHI:
 - CHI 2026 workshop on sensory, perception and design in HCI
 - CHI 2021 workshop on Complexity Methods for HCI
 - CHI 2022 workshop on Compatible Collaborative Approaches in Medical Research
-(Proposed for CHI'25) Towards \Cross-sensory Interaction": How Should we Leverage Crossmodal
-Cognition & Neuroplasticity in HCI?
 
 ### Review for Top-ranked International Conferences:
 CHI, CSCW, DIS, Ubicomp/ISWC, Worldhaptics, Eurohaptics, ICAD
